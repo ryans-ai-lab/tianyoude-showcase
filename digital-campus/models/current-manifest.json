@@ -1,0 +1,65 @@
+{
+  "version": "20260909-v6",
+  "runtime": [
+    {
+      "file": "tianyoude-headquarters-campus-web.glb",
+      "bytes": 54175888,
+      "sha256": "c745d61c7ed690e8288210b1567ea085efc28d7fbb28ebc0f53f50961847feda"
+    },
+    {
+      "file": "tianyoude-storage-web.glb",
+      "bytes": 9157784,
+      "sha256": "ac9b82de1ab614be3e4e5b1b37f3f1fc786eea1e558624a9b43f4ebc24119c31"
+    },
+    {
+      "file": "alajabao-headquarters-campus-web.glb",
+      "bytes": 39557848,
+      "sha256": "b9ba2c1f6a6dab09779c0facd86c8d8075ebfd272fd1bfcd963dbd89938d6e17"
+    },
+    {
+      "file": "alajabao-storage-web.glb",
+      "bytes": 10175376,
+      "sha256": "cbfbe09cf2eea88c33fc55d32fb94ad55de3ec6fa08af1dc3d2031df5f7a799e"
+    }
+  ],
+  "downloads": [
+    {
+      "file": "tianyoude-headquarters.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/tianyoude-headquarters.glb",
+      "bytes": 56920292,
+      "sha256": "1b3a3e7f38f8b1251f5b6e03f289a2ed11fca0066a0ebf06578ec65a8e594119"
+    },
+    {
+      "file": "tianyoude-headquarters-campus.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/tianyoude-headquarters-campus.glb",
+      "bytes": 92908072,
+      "sha256": "d17482a3cc37e9c4925553cbdd3dca920389c724915b576098ecd52313bc0574"
+    },
+    {
+      "file": "tianyoude-storage.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/tianyoude-storage.glb",
+      "bytes": 15041488,
+      "sha256": "93e3b4385a03b14203382c2dda80cc90b0936e45d37c826b92b03e096a8b0abb"
+    },
+    {
+      "file": "alajabao-headquarters.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/alajabao-headquarters.glb",
+      "bytes": 26679744,
+      "sha256": "b6ac6f327be02f8c6f8ef7d98e6cc2e23c3b15d170c7eac9e6b6b366f7fa0855"
+    },
+    {
+      "file": "alajabao-headquarters-campus.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/alajabao-headquarters-campus.glb",
+      "bytes": 65007120,
+      "sha256": "d39b8dcf5c41d7d5127dfc66349291ef5aad59a8715fd534d921aba0516fdc88"
+    },
+    {
+      "file": "alajabao-storage.glb",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v6-20260909/alajabao-storage.glb",
+      "bytes": 17135700,
+      "sha256": "d8a4df18d0bc7468cb0d6adfd4a9f8403a56928543c9fa0f172cb2a8048526bf"
+    }
+  ],
+  "legacyFiles": "The previous eight V5.2 GLBs stay available for cached pages. V6 loads the campus-web/storage-web paths above and its download controls use the versioned attachments above.",
+  "validation": "Portable geometry preserves all world positions and image bytes; normals/tangents use 16-bit precision; web Meshopt files decoded and compared before publication."
+}
