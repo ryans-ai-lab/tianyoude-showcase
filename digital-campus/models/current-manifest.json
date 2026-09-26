@@ -1,25 +1,29 @@
 {
-  "version": "20260923-v8",
+  "version": "20260927-v9",
   "runtime": [
     {
-      "file": "tianyoude-headquarters-campus-web.glb",
-      "bytes": 67729904,
-      "sha256": "2b8ac1db7b9abdea8c301b3e96d849263da6397cd35c3e035d1b8ec6426a69f8"
+      "file": "tianyoude-headquarters-campus-mobile.glb",
+      "bytes": 7853928,
+      "sha256": "72dd06157940a17651208dcf0da2aadbe656c5919aa5f32799c445dce77875c2",
+      "loading": "initial"
     },
     {
-      "file": "tianyoude-storage-web.glb",
-      "bytes": 9043980,
-      "sha256": "ea8be31165a2c1cd58ced6a6499ad686c461cd2c2f6980d027297d90e20108ea"
+      "file": "tianyoude-storage-mobile.glb",
+      "bytes": 1696396,
+      "sha256": "18004e60ba299aef5768dc8ece403ecbe81caa6c2b8b632060440a76f79324bd",
+      "loading": "on-demand"
     },
     {
-      "file": "alajabao-headquarters-campus-web.glb",
-      "bytes": 53422000,
-      "sha256": "86032801de79a06d44af8b390b3791f44433f85d2b9318ebe57cf8a148aa3d9f"
+      "file": "alajabao-headquarters-campus-mobile.glb",
+      "bytes": 6412436,
+      "sha256": "5b8aa3471102842a90ad55831088ef8635f013f9c3d06aa878cbe928480ff689",
+      "loading": "initial"
     },
     {
-      "file": "alajabao-storage-web.glb",
-      "bytes": 9435440,
-      "sha256": "d7617fe8dbd9685d476ad50e3ef3bef0bafb86c705dbe09f7631f44bc8a6c91d"
+      "file": "alajabao-storage-mobile.glb",
+      "bytes": 1594512,
+      "sha256": "2901bffef4fe384660c4b53a1f3c724600a0ef22ee00c29cd68989cf0ab9137e",
+      "loading": "on-demand"
     }
   ],
   "downloads": [
@@ -62,5 +66,30 @@
   ],
   "legacyFiles": "The previous eight V5.2 GLBs stay available for cached pages. V8 loads the campus-web/storage-web paths above and its download controls use the versioned attachments above.",
   "validation": "Portable geometry preserves all world positions and image bytes; normals/tangents use 16-bit precision; web Meshopt files decoded and compared before publication.",
-  "inheritedStorage": "Storage facilities remain byte-identical to V7; campus exterior additions are proportional evidence-based reconstructions."
+  "inheritedStorage": "Storage facilities remain byte-identical to V7; campus exterior additions are proportional evidence-based reconstructions.",
+  "previousRuntime": [
+    {
+      "file": "tianyoude-headquarters-campus-web.glb",
+      "bytes": 67729904,
+      "sha256": "2b8ac1db7b9abdea8c301b3e96d849263da6397cd35c3e035d1b8ec6426a69f8"
+    },
+    {
+      "file": "tianyoude-storage-web.glb",
+      "bytes": 9043980,
+      "sha256": "ea8be31165a2c1cd58ced6a6499ad686c461cd2c2f6980d027297d90e20108ea"
+    },
+    {
+      "file": "alajabao-headquarters-campus-web.glb",
+      "bytes": 53422000,
+      "sha256": "86032801de79a06d44af8b390b3791f44433f85d2b9318ebe57cf8a148aa3d9f"
+    },
+    {
+      "file": "alajabao-storage-web.glb",
+      "bytes": 9435440,
+      "sha256": "d7617fe8dbd9685d476ad50e3ef3bef0bafb86c705dbe09f7631f44bc8a6c91d"
+    }
+  ],
+  "geometrySource": "V8 campus with simplified foliage; buildings and evidence retained",
+  "downloadVersion": "20260923-v8",
+  "decoder": "draco/"
 }
