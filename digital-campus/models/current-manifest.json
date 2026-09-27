@@ -1,5 +1,5 @@
 {
-  "version": "20260927-v10",
+  "version": "20260927-v11",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile.glb",
@@ -64,9 +64,9 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "Previous V5.2-V8 GLBs and hashed bundles remain available for cached pages. V10 loads the byte-identical V9 campus-mobile/storage-mobile paths in runtime; high-resolution download controls continue to use V8 Release attachments.",
-  "validation": "V9 lightweight Draco geometry preserves buildings, evidence metadata and logo image bytes; foliage and procedural surface maps were simplified. All four GLBs passed validation before and after decoding. V10 changes runtime presentation only and retains each V9 runtime SHA-256.",
-  "inheritedStorage": "V10 runtime storage-mobile files remain byte-identical to V9 and load on demand. V8 high-resolution downloadable storage files retain their V7 source bytes.",
+  "legacyFiles": "Previous V5.2-V8 GLBs and hashed bundles remain available for cached pages. V11 loads the byte-identical V9 campus-mobile/storage-mobile paths in runtime; high-resolution download controls continue to use V8 Release attachments.",
+  "validation": "V9 lightweight Draco geometry preserves buildings, evidence metadata and logo image bytes; foliage and procedural surface maps were simplified. All four GLBs passed validation before and after decoding. V11 changes runtime presentation only and retains each V9 runtime SHA-256.",
+  "inheritedStorage": "V11 runtime storage-mobile files remain byte-identical to V9 and load on demand. V8 high-resolution downloadable storage files retain their V7 source bytes.",
   "previousRuntime": [
     {
       "file": "tianyoude-headquarters-campus-web.glb",
@@ -92,7 +92,7 @@
   "geometrySource": "V8 campus with simplified foliage; buildings and evidence retained",
   "downloadVersion": "20260923-v8",
   "decoder": "draco/",
-  "runtimeVersion": "20260927-v10",
+  "runtimeVersion": "20260927-v11",
   "modelAssetVersion": "20260927-v9",
-  "runtimePresentation": "V10: default 3x rotation and 3x day cycle after geographic arrival; globe-to-campus journey; higher-resolution native-MSAA mobile rendering. Runtime changes do not imply a new geometry survey."
+  "runtimePresentation": "V11: non-rotating geographic loading view embedded inside the model frame; model-ready immediately ends automatic loading transition; user-controlled Earth/China/province/city/factory scale slider. Default model rotation and day cycle remain 3x. V10 mobile clarity and V9 model bytes retained."
 }
