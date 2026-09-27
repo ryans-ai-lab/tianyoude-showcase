@@ -1,0 +1,3 @@
+/* Keep one ready-state exit; leave the loading-state hide action available. */
+.arrival-v11[data-model-ready="true"]:has(.arrival-follow) .arrival-status>button{display:none}
+@media(max-width:360px){.arrival-v11 .arrival-status>div{max-width:174px}.arrival-v11 .arrival-navigation{top:10px;padding:7px}.arrival-v11 .arrival-stops button{min-height:28px;padding:4px 6px}.arrival-v11 .arrival-navigation .arrival-follow{min-height:28px}}
