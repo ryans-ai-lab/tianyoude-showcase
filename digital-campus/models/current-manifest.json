@@ -1,10 +1,10 @@
 {
-  "version": "20260927-v11",
+  "version": "20261001-v13",
   "runtime": [
     {
-      "file": "tianyoude-headquarters-campus-mobile.glb",
-      "bytes": 7853928,
-      "sha256": "72dd06157940a17651208dcf0da2aadbe656c5919aa5f32799c445dce77875c2",
+      "file": "tianyoude-headquarters-campus-mobile-v13.glb",
+      "bytes": 7582080,
+      "sha256": "ab14a2d1c4fe294104785b19a1f75b388bfb150abe80d6f433c3b76d2e760744",
       "loading": "initial"
     },
     {
@@ -14,9 +14,9 @@
       "loading": "on-demand"
     },
     {
-      "file": "alajabao-headquarters-campus-mobile.glb",
-      "bytes": 6412436,
-      "sha256": "5b8aa3471102842a90ad55831088ef8635f013f9c3d06aa878cbe928480ff689",
+      "file": "alajabao-headquarters-campus-mobile-v13.glb",
+      "bytes": 6770844,
+      "sha256": "bdcbe98f70d988406e17acf18360dec076eb189b8487155ec955a68c6a8d3671",
       "loading": "initial"
     },
     {
@@ -29,44 +29,44 @@
   "downloads": [
     {
       "file": "tianyoude-headquarters.glb",
-      "bytes": 51217748,
-      "sha256": "6c1e3d7424db67689cf9195150a69e85574afbe58b9967f3cfcc16222062bb40",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/tianyoude-headquarters.glb"
+      "bytes": 51217812,
+      "sha256": "624cc6cf56c795c9ce11933951421b9931355e55802eac076d42d67797f6e241",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/tianyoude-headquarters.glb"
     },
     {
       "file": "tianyoude-headquarters-campus.glb",
-      "bytes": 118018440,
-      "sha256": "340a4290aa2464fcd1127f382db5dfab17b5860eb8da79daf2b8a4a725507dc8",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/tianyoude-headquarters-campus.glb"
+      "bytes": 105778352,
+      "sha256": "d20dca4241f684d2bb0301a78e7a7be40ede173b75e8c5962776b43da0c8cd57",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/tianyoude-headquarters-campus.glb"
     },
     {
       "file": "tianyoude-storage.glb",
       "bytes": 14915336,
       "sha256": "a70419740513571da3c39e4e717589dd6642ccab52b684606bbe6e65ea146f11",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/tianyoude-storage.glb"
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/tianyoude-storage.glb"
     },
     {
       "file": "alajabao-headquarters.glb",
-      "bytes": 25730200,
-      "sha256": "896392fe614cb9f23a7e24285dacc56c16581eac1501898c2a97cf684703b074",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/alajabao-headquarters.glb"
+      "bytes": 25730908,
+      "sha256": "f7602aaae4e737a07d8f9d5104bdf7e797024b1e359e05be7c5c9d4e33f5ebf4",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-headquarters.glb"
     },
     {
       "file": "alajabao-headquarters-campus.glb",
-      "bytes": 91976036,
-      "sha256": "23489614b0d8437e746a4957cf66a18e7e0d48b860455bc9e66602c1a6577cb6",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/alajabao-headquarters-campus.glb"
+      "bytes": 95260504,
+      "sha256": "386b90e12cd73c933d880121c72394982190df61482ea2f7cc0a3f080b7b64d9",
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-headquarters-campus.glb"
     },
     {
       "file": "alajabao-storage.glb",
       "bytes": 16429476,
       "sha256": "4c975e1dc6eade5253fd3d6e308921ca73bb2fddda6bc2bef546a9b573c5bb6b",
-      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v8-20260923/alajabao-storage.glb"
+      "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "Previous V5.2-V8 GLBs and hashed bundles remain available for cached pages. V11 loads the byte-identical V9 campus-mobile/storage-mobile paths in runtime; high-resolution download controls continue to use V8 Release attachments.",
-  "validation": "V9 lightweight Draco geometry preserves buildings, evidence metadata and logo image bytes; foliage and procedural surface maps were simplified. All four GLBs passed validation before and after decoding. V11 changes runtime presentation only and retains each V9 runtime SHA-256.",
-  "inheritedStorage": "V11 runtime storage-mobile files remain byte-identical to V9 and load on demand. V8 high-resolution downloadable storage files retain their V7 source bytes.",
+  "legacyFiles": "Previous GLBs and hashed bundles remain available for cached pages. V13 uses two new immutable campus-mobile-v13 paths and retains byte-identical V9 storage-mobile files.",
+  "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
+  "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
     {
       "file": "tianyoude-headquarters-campus-web.glb",
@@ -89,10 +89,10 @@
       "sha256": "d7617fe8dbd9685d476ad50e3ef3bef0bafb86c705dbe09f7631f44bc8a6c91d"
     }
   ],
-  "geometrySource": "V8 campus with simplified foliage; buildings and evidence retained",
-  "downloadVersion": "20260923-v8",
+  "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
+  "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20260927-v11",
-  "modelAssetVersion": "20260927-v9",
-  "runtimePresentation": "V11: non-rotating geographic loading view embedded inside the model frame; model-ready immediately ends automatic loading transition; user-controlled Earth/China/province/city/factory scale slider. Default model rotation and day cycle remain 3x. V10 mobile clarity and V9 model bytes retained."
+  "runtimeVersion": "20261001-v13",
+  "modelAssetVersion": "20261001-v13",
+  "runtimePresentation": "V13: full-campus overview fitted to viewport; subdued mineral daylight; rear and jar display viewpoints; critically damped north-up map motion, local earth first-frame gate, 420 ms eased handoff; default 3x rotation and day cycle."
 }
