@@ -1,5 +1,5 @@
 {
-  "version": "20261002-v17",
+  "version": "20261002-v18",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261002-v17",
+  "runtimeVersion": "20261002-v18",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "Brand-first mobile navigation for factory, products and story; subtle default 3D tools with opt-in detail controls. Fixed 6-second non-linear journey, 1-second map hold, 700ms handoff. V13 geometry/download bytes and hidden unverified Alajabao outdoor jar props remain unchanged.",
+  "runtimePresentation": "V18 candidate: default direct model gestures, minimal glass navigation and tools, brand logos and blue/gold identity, group stock code 002646; original V13/V9 model bytes retained.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -125,5 +125,20 @@
       "license": "public domain",
       "scope": "generalized physical land only; not campus accuracy"
     }
+  },
+  "experienceV18": {
+    "brandNavigation": [
+      "factory",
+      "products",
+      "story"
+    ],
+    "defaultControls": "minimal-glass-view-and-tool-icons",
+    "defaultModelInput": "single-touch-rotate; two-touch-pan-and-pinch-zoom; no opt-in",
+    "browserGlass": "CSS translucent navigation/control layer, not native Apple framework implementation",
+    "arrivalTiming": "6s + 1s + 700ms when uninterrupted; user gestures enter manual map exploration",
+    "runtimeGLBUnchanged": true,
+    "downloadUnchanged": true,
+    "contentDataVersion": "20261001-v15",
+    "verificationStatus": "Source syntax and actual installed controller touch/pan/pinch/cancel tests passed. Browser mobile DPR2 rendering and default drag inspected; full physical touchscreen and sustained device performance remain unverified."
   }
 }
