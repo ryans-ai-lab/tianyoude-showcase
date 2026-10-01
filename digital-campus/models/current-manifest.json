@@ -1,5 +1,5 @@
 {
-  "version": "20261001-v14",
+  "version": "20261001-v15",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,7 +92,7 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261001-v14",
+  "runtimeVersion": "20261001-v15",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "V14: fixed campus-centred geographic scales; 10000 ms global quintic easing independent of download progress, 1400 ms stationary campus-map hold, 800 ms crossfade; permanent geographic control dock; model zoom anchored on campus bounds centre. Alajabao inferred outdoor four-jar prop and matching walk obstacle hidden at runtime. Original V13 GLB bytes and V13 downloads preserved; no new surveyed geometry."
+  "runtimePresentation": "6-second fixed non-linear factory-centred journey, 1-second map hold, 700ms handoff; compact persistent main controls, product-first homepage. Unverified Alajabao outdoor jar props remain hidden; model geometry and V13 download bytes unchanged."
 }
