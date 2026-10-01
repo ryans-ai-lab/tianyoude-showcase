@@ -1,5 +1,5 @@
 {
-  "version": "20261001-v15",
+  "version": "20261001-v16",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,7 +92,16 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261001-v15",
+  "runtimeVersion": "20261001-v16",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "6-second fixed non-linear factory-centred journey, 1-second map hold, 700ms handoff; compact persistent main controls, product-first homepage. Unverified Alajabao outdoor jar props remain hidden; model geometry and V13 download bytes unchanged."
+  "runtimePresentation": "6-second fixed non-linear factory-centred journey, 1-second map hold, 700ms handoff; compact persistent main controls, product-first homepage. Unverified Alajabao outdoor jar props remain hidden; model geometry and V13 download bytes unchanged.",
+  "experienceV16": {
+    "defaultView": "architectural-three-quarter",
+    "sky": "procedural-day-moon-stars",
+    "landscape": "abstract-presentation-only",
+    "runtimeGLBUnchanged": true,
+    "downloadUnchanged": true,
+    "arrivalTiming": "6s + 1s + 700ms",
+    "newExternalAssets": 0
+  }
 }
