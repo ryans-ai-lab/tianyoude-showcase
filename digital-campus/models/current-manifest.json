@@ -1,5 +1,5 @@
 {
-  "version": "20261001-v16",
+  "version": "20261002-v17",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261001-v16",
+  "runtimeVersion": "20261002-v17",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "6-second fixed non-linear factory-centred journey, 1-second map hold, 700ms handoff; compact persistent main controls, product-first homepage. Unverified Alajabao outdoor jar props remain hidden; model geometry and V13 download bytes unchanged.",
+  "runtimePresentation": "Brand-first mobile navigation for factory, products and story; subtle default 3D tools with opt-in detail controls. Fixed 6-second non-linear journey, 1-second map hold, 700ms handoff. V13 geometry/download bytes and hidden unverified Alajabao outdoor jar props remain unchanged.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -103,5 +103,27 @@
     "downloadUnchanged": true,
     "arrivalTiming": "6s + 1s + 700ms",
     "newExternalAssets": 0
+  },
+  "experienceV17": {
+    "brandNavigation": [
+      "factory",
+      "products",
+      "story"
+    ],
+    "defaultControls": "subtle-view-options",
+    "arrivalTiming": "6s + 1s + 700ms",
+    "runtimeGLBUnchanged": true,
+    "downloadUnchanged": true,
+    "contentDataVersion": "20261001-v15",
+    "mobileAcceptance": "Desktop-browser mobile viewport review and delayed/failing map fixtures; physical phones not tested.",
+    "mapQuality": "Native tile coverage only; global/regional raster overzoom prevented; vector/coordinate fallback while detail is unavailable.",
+    "mapBackdrop": {
+      "path": "assets/map/ne-110m-land-v17.geojson",
+      "bytes": 138160,
+      "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9",
+      "source": "Natural Earth 110m land, dataset 4.1.0, repository v5.1.2",
+      "license": "public domain",
+      "scope": "generalized physical land only; not campus accuracy"
+    }
   }
 }
