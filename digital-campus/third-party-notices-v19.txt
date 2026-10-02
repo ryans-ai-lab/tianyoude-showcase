@@ -1,0 +1,39 @@
+Tianyoude / Alajabao digital campus V19
+
+SunCalc 2.1.0
+https://github.com/mourner/suncalc
+Official commit ecb6bb0b0f3a5003298cfb536e46176117caf4e5
+The display includes adapted position and illumination functions.
+
+Copyright (c) 2026, Volodymyr Agafonkin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Star catalogue attribution
+Yale Bright Star Catalogue, 5th Revised Edition (Hoffleit and Warren, 1991)
+300 bright entries from CDS V/50: https://cdsarc.cds.unistra.fr/viz-bin/cat/V/50
+Catalogue description: https://heasarc.gsfc.nasa.gov/W3Browse/star-catalog/bsc5p.html
+FK5 precession formula: NASA IDL Astronomy Library PREMAT (Wayne Landsman).
+https://idlastro.gsfc.nasa.gov/ftp/pro/astro/premat.pro
+
+Positions are calculated for an accelerated display clock, not live observed weather.

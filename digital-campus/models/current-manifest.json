@@ -1,5 +1,5 @@
 {
-  "version": "20261002-v18",
+  "version": "20261002-v19",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,7 +92,7 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261002-v18",
+  "runtimeVersion": "20261002-v19",
   "modelAssetVersion": "20261001-v13",
   "runtimePresentation": "V18 candidate: default direct model gestures, minimal glass navigation and tools, brand logos and blue/gold identity, group stock code 002646; original V13/V9 model bytes retained.",
   "experienceV16": {
