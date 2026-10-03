@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "releaseVersion": "20261003-v22",
+  "sourceCommit": "d53effa98dc190318e8e7a9ce7ce74249a7884d4",
+  "pagesBaselineCommit": "63a107cbb93561255f43dbe5c1e735fd36d08562",
+  "sourceFrozenBuildAggregateSHA256": "a4db5190f2bca28b69161650bbf34480c8bcde4b19445fae1aef62a2c0bf6d28",
+  "indexSHA256": "cfbad3c3cad4fae366034da2ea6cff301743b6c9cf5f5afef717d28fdf25d27d",
+  "acceptedCodeAndAssetsUnmodified": true,
+  "metadataOnlyChanges": [
+    "models/current-manifest.json",
+    "deployment-v22.json"
+  ],
+  "modelAssetVersion": "20261001-v13",
+  "modelAndDownloadRowsPreserved": true,
+  "retiredFiles": 16,
+  "retiredBytes": 3418278,
+  "retiredRecoveryCommit": "63a107cbb93561255f43dbe5c1e735fd36d08562",
+  "roadSourceManifest": "assets/map/arrival-v22/roads/manifest.json",
+  "roadAttribution": "© OpenStreetMap contributors / ODbL",
+  "publishedInputsScope": "Reviewed public dist only; no private references, originals or QA recordings."
+}

@@ -1,5 +1,5 @@
 {
-  "version": "20261003-v21",
+  "version": "20261003-v22",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "Previous GLBs and hashed bundles remain available for cached pages. V13 uses two new immutable campus-mobile-v13 paths and retains byte-identical V9 storage-mobile files.",
+  "legacyFiles": "All V13/V9 models and retained hashed bundles remain byte-identical. Exactly 16 approved old V19 JS/CSS bundles were retired; their original blobs remain recoverable from Pages commit 63a107cbb93561255f43dbe5c1e735fd36d08562.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261003-v21",
+  "runtimeVersion": "20261003-v22",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "V18 candidate: default direct model gestures, minimal glass navigation and tools, brand logos and blue/gold identity, group stock code 002646; original V13/V9 model bytes retained.",
+  "runtimePresentation": "V22: preserved nonlinear seven-second geography approach and motion blur, genuine labeled road map approach and readable hold, then original low-viewpoint V13/V9 campus model.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -140,5 +140,13 @@
     "downloadUnchanged": true,
     "contentDataVersion": "20261001-v15",
     "verificationStatus": "Source syntax and actual installed controller touch/pan/pinch/cancel tests passed. Browser mobile DPR2 rendering and default drag inspected; full physical touchscreen and sustained device performance remain unverified."
+  },
+  "experienceV22": {
+    "sourceCommit": "d53effa98dc190318e8e7a9ce7ce74249a7884d4",
+    "frontMs": 7000,
+    "roadApproachMs": 1000,
+    "readableRoadHoldMinimumMs": 1600,
+    "exitFadeMs": 360,
+    "officePointIsSurveyedEntrance": false
   }
 }

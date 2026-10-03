@@ -1,0 +1,61 @@
+{
+  "title": "Factory neighborhood OSM road data",
+  "license": "Open Database License 1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors",
+  "attributionUrl": "https://www.openstreetmap.org/copyright",
+  "dataAvailability": "The two listed GeoJSON files are the complete machine-readable derived data used in this map. Queries and original feature IDs are retained. No OSM Standard raster tile archive.",
+  "snapshotNotice": "Retrieved on 2026-10-03; database timestamps are historical snapshots, not a guarantee that every road is current.",
+  "campuses": {
+    "tianyoude": {
+      "data": "tianyoude-roads.geojson",
+      "coordinateSystem": "WGS84",
+      "renderProjection": "EPSG:3857",
+      "bboxWGS84": [
+        101.92074,
+        36.81444,
+        101.97074,
+        36.85444
+      ],
+      "factoryPoint": [
+        101.94574,
+        36.83444
+      ],
+      "pointRole": "imagery-matched-office-roof-point, not surveyed entrance",
+      "source": "OpenStreetMap via Overpass private.coffee",
+      "sourceDate": "2026-06-01T08:52:28Z",
+      "retrievedDate": "2026-10-03",
+      "bytes": 95851,
+      "sha256": "67b89ddb2b84290492d9a05a206e0ad1b50a5ceee687aaf43b9a833ce8ec156e",
+      "featureCount": 226,
+      "query": "[out:json][timeout:40];(way[highway](36.81444,101.92074,36.85444,101.97074);way[waterway](36.81444,101.92074,36.85444,101.97074);way[natural=water](36.81444,101.92074,36.85444,101.97074);way[landuse~\"industrial|grass|forest\"](36.81444,101.92074,36.85444,101.97074);way[leisure=park](36.81444,101.92074,36.85444,101.97074);node[place](36.81444,101.92074,36.85444,101.97074););out tags geom;",
+      "minimumEndZoom": 14,
+      "addressSourceUrl": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225204449.PDF"
+    },
+    "alajabao": {
+      "data": "alajabao-roads.geojson",
+      "coordinateSystem": "WGS84",
+      "renderProjection": "EPSG:3857",
+      "bboxWGS84": [
+        90.987921,
+        29.612269,
+        91.037921,
+        29.652269
+      ],
+      "factoryPoint": [
+        91.012921,
+        29.632269
+      ],
+      "pointRole": "imagery-matched-office-roof-point, not surveyed entrance",
+      "source": "OpenStreetMap via Overpass private.coffee",
+      "sourceDate": "2026-07-15T15:22:01Z",
+      "retrievedDate": "2026-10-03",
+      "bytes": 178593,
+      "sha256": "5596689a51f7e39dff235a4c3bb7ab640673e03a80d84267911c63f3ff0c04b9",
+      "featureCount": 432,
+      "query": "[out:json][timeout:40];(way[highway](29.612269,90.987921,29.652269,91.037921);way[waterway](29.612269,90.987921,29.652269,91.037921);way[natural=water](29.612269,90.987921,29.652269,91.037921);way[landuse~\"industrial|grass|forest\"](29.612269,90.987921,29.652269,91.037921);way[leisure=park](29.612269,90.987921,29.652269,91.037921);node[place](29.612269,90.987921,29.652269,91.037921););out tags geom;",
+      "minimumEndZoom": 14,
+      "addressSourceUrl": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2025-06-24/4fd893ff-488e-4dd6-a30c-6e20072ac66a.PDF"
+    }
+  }
+}
