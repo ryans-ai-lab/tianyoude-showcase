@@ -1,0 +1,11 @@
+{
+  "runtimeVersion": "20261005-v23",
+  "sourceCommit": "7b6dd81c7c3fda69df5bd9019abdade84f4cc5c5",
+  "previousPublicationCommit": "3da48914837c1237cd7192ae884a07cf936ff7f5",
+  "modelAssetVersion": "20261001-v13",
+  "downloadVersion": "20261001-v13",
+  "change": "Shorten and keep geographic zoom north-up; show geographic labels before the road stage; replace automatic orbit with a finite architectural camera route; stable lighting shaders and accumulated frame deadlines; compact translucent mobile controls and detail polish.",
+  "indexSHA256": "48a3cf195b2dc687d2a4eb8b0afe0af5595f35390ef2b0b0528db67d306d3a12",
+  "dataFreshness": "V20 bounded official-content snapshots; V21 verified source wording. Original imagery dates and road database/acquisition dates remain separate. No new whole-site content crawl claimed.",
+  "preparedAtUTC": "2026-10-05T15:24:18.736929+00:00"
+}

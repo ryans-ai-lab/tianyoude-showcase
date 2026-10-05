@@ -1,5 +1,5 @@
 {
-  "version": "20261005-v22.1",
+  "version": "20261005-v23",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "V13/V9 GLBs retain their original bytes. Previously retired 16 V19 bundles and 7 replaced V21 JavaScript bundles are retained in complete Git history and independent rollback copies; shared CSS, MapLibre, current V22 bundles and root media remain available.",
+  "legacyFiles": "V13/V9 GLBs retain original bytes. Historical script retirements have complete Git history and independent original-byte rollback copies. V23 retires only the obsolete V20 eight-file CSS/JavaScript family; V22 and V22.1 cached bundle families, shared MapLibre and root media remain available.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261005-v22.1",
+  "runtimeVersion": "20261005-v23",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "V22: preserved nonlinear seven-second geography approach and motion blur, genuine labeled road map approach and readable hold, then original low-viewpoint V13/V9 campus model.",
+  "runtimePresentation": "V23: continuous north-up factory-centered geography zoom with labeled province/city/county stages, short readable real road handoff, finite front-facing architectural camera route, native MSAA source PBR and stable lighting shader topology.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -157,5 +157,23 @@
     "readableRoadHoldMinimumMs": 1600,
     "exitFadeMs": 360,
     "geometryAndDownloadFilesUnchanged": true
+  },
+  "experienceV23": {
+    "sourceCommit": "7b6dd81c7c3fda69df5bd9019abdade84f4cc5c5",
+    "frontMs": 3200,
+    "roadApproachMs": 500,
+    "readableRoadHoldMinimumMs": 350,
+    "exitFadeMs": 280,
+    "factoryCentered": true,
+    "mapBearing": 0,
+    "mapPitch": 0,
+    "stageLabels": "China, province/autonomous region, city/county, Weiyuan town or Lhasa Economic and Technological Development Zone, factory address; verified address names only.",
+    "sceneCamera": "23.8 second finite four-node route on known front hemisphere; default 3x speed setting denotes normal route duration. Native interaction cancels director.",
+    "sceneRenderPipeline": "native MSAA + retained source PBR + actual directional plaza shadows; no added postprocessing passes",
+    "shaderPreparation": "Three compileAsync before model readiness; fixed light/shadow counts avoid day/night program variants. Not a GPU fence.",
+    "frameSchedule": "accumulated deadlines: normal 60Hz / low-power 30Hz; direct input uses next display frame",
+    "geometryAndDownloadFilesUnchanged": true,
+    "newExternalAssets": 0,
+    "physicalMobileAcceptance": "Not measured; Chrome desktop mobile emulation with trusted CDP touch is a separate layer."
   }
 }
