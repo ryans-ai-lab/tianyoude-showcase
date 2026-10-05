@@ -1,0 +1,11 @@
+{
+  "runtimeVersion": "20261005-v22.1",
+  "sourceCommit": "71b550b8a1fa0a2e19c55c8e6371021788cefd69",
+  "previousPublicationCommit": "7be2a50797d88dcd6dc7c03854fbcbf6aa4b596c",
+  "modelAssetVersion": "20261001-v13",
+  "downloadVersion": "20261001-v13",
+  "change": "Keep explicit model entry active across settings layout changes; real viewport resizing still interrupts the journey. Original cinematic curve, native imagery, road data, low model cameras and geometry unchanged.",
+  "indexSHA256": "0d091d079c78244e69c3a0e54ee737c40a1fbda42d6ef60a7f4fb76133d5dd71",
+  "dataFreshness": "V20 bounded official-content snapshots; V21 source wording. Road acquisition and database dates retained separately.",
+  "preparedAtUTC": "2026-10-05T10:20:27.336394+00:00"
+}
