@@ -1,5 +1,5 @@
 {
-  "version": "20261006-v26",
+  "version": "20261006-v27",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261006-v26",
+  "runtimeVersion": "20261006-v27",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "Continuous unwrapped 360-degree campus orbit with independent smooth dolly, crane and framing; geographic arrival overlaps model loading; dedicated white phone content layouts; unchanged original source PBR materials and geometry.",
+  "runtimePresentation": "Always-visible horizontal categories for factory, products and brand introductions; isolated Tianyoude and Alajabao company copy with explicit related-group news; unchanged V26 geographic arrival, continuous orbit and source PBR.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -308,5 +308,28 @@
     "geometryAndDownloadsUnchanged": true,
     "physicalMobileAcceptance": false,
     "indexSHA256": "d52527cdf7ff65d71aef92bdfb5fbf9b4763efeaa26e503b69b3f8f00f782464"
+  },
+  "experienceV27": {
+    "sourceCommit": "f134f9b877149343c36ba9d6109d4108e17f77b5",
+    "previousPublicCommit": "cf063483301ab3d44da26240dad725aff70a56c5",
+    "indexSHA256": "cb4cec4ccfd52911d1d898ad5c4977b4630eb8600cf1c73c566794763f2b8653",
+    "primaryNavigation": [
+      "厂区",
+      "产品",
+      "品牌介绍"
+    ],
+    "secondaryNavigation": "Always-visible native horizontal rails with direct replacement of selected category, article, chapter and SKU",
+    "brandOwnership": {
+      "tianyoudeCompanySections": 12,
+      "alajabaoCompanySections": 3,
+      "alajabaoPKUAndInvestorRecords": 0,
+      "relatedGroupNewsPublisherExplicit": true
+    },
+    "unavailableOfficialImage": "Explicit unavailable/404 metadata presents compact original-source notice; no unrelated substitute",
+    "originalDataBytesAndDatesPreserved": true,
+    "geometryAndDownloadsUnchanged": true,
+    "cameraAndMapSourceUnchanged": true,
+    "newPublicMediaBytes": 0,
+    "physicalMobileAcceptance": false
   }
 }
