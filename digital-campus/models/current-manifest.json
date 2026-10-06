@@ -94,7 +94,7 @@
   "decoder": "draco/",
   "runtimeVersion": "20261006-v26",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "Coordinated safe 44.2s architectural camera loop and independent automatic rotation; original company-name holds, restrained existing nighttime fill; unchanged north-up geographic journey and source PBR materials.",
+  "runtimePresentation": "Continuous unwrapped 360-degree campus orbit with independent smooth dolly, crane and framing; geographic arrival overlaps model loading; dedicated white phone content layouts; unchanged original source PBR materials and geometry.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
