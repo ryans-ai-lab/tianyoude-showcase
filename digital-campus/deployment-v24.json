@@ -1,11 +1,12 @@
 {
   "runtimeVersion": "20261006-v24",
-  "sourceCommit": "d1971a4260454c6bbba93e18c57bd3a12a67052b",
-  "previousPublicationCommit": "b95090cb54bdf8e2e27bb8cd1d5b9f0d8e7b8367",
-  "indexSHA256": "738e395d939d7a13cfa7325ab5af04267ad060df77ab72f240ed1aac197e1048",
+  "sourceCommit": "597983e3644d776928d1599f6730d0db43d16e33",
+  "previousPublicationCommit": "4d45c8b08df59b8cc20dc2625f021a129e60017f",
+  "indexSHA256": "539d1ed71ecf409bc06b78b56706893f2d5dd6957f6d55d3be49e44c70155563",
   "modelAssetVersion": "20261001-v13",
   "downloadVersion": "20261001-v13",
   "change": "Resolve blank geographic preparation, sparse blur sampling and native imagery scale reveal; preserve clear road labels; restore independent default orbit and continuous camera modulation; original brand imagery, system UI type, compact primary controls.",
   "dataFreshness": "Existing V20 bounded official snapshots and V21 verified wording retained; original imagery/source dates unchanged; this iteration does not claim a whole-site official-content re-crawl.",
-  "preparedAtUTC": "2026-10-06T00:21:29.299230+00:00"
+  "preparedAtUTC": "2026-10-06T00:55:03.489793+00:00",
+  "panelCorrection": "Keep More inspector heading above scrolling settings; model remains live."
 }

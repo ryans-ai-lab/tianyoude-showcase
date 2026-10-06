@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "8 unused V17 JavaScript/CSS family files may be retired only after independent originals and SHA-verified recovery copies. Complete previous V23 public Git tree b95090c remains; V23/V22.1 cached runtime families, shared MapLibre, root media, GLBs and decoders remain.",
+  "legacyFiles": "V24 initial release retired 8 unused V17 JS/CSS originals; the panel follow-up retires the full 15-file V18 shared-CSS reverse-dependency closure only after independent SHA-verified backup. Complete V23 b95090c and first V24 4d45c8b public Git trees remain; cached first V24/V23/V22.1, shared MapLibre, root media, GLBs and decoders preserved.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -177,7 +177,7 @@
     "physicalMobileAcceptance": "Not measured; Chrome desktop mobile emulation with trusted CDP touch is a separate layer."
   },
   "experienceV24": {
-    "sourceCommit": "d1971a4260454c6bbba93e18c57bd3a12a67052b",
+    "sourceCommit": "597983e3644d776928d1599f6730d0db43d16e33",
     "previousPublicCommit": "b95090cb54bdf8e2e27bb8cd1d5b9f0d8e7b8367",
     "nominalGeographicMotionMs": 4310,
     "timingMs": {
@@ -242,6 +242,7 @@
     "brandAssets": "original marks and existing official field/grain/snow-mountain brand imagery, no new marketing copy",
     "newPublicMediaBytes": 0,
     "geometryAndDownloads": "V13/V9 original bytes preserved",
-    "physicalMobileAcceptance": false
+    "physicalMobileAcceptance": false,
+    "indexSHA256": "539d1ed71ecf409bc06b78b56706893f2d5dd6957f6d55d3be49e44c70155563"
   }
 }
