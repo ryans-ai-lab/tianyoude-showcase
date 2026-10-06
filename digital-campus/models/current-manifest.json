@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "V25 retires only 31 unused V13/V14/V15/V16 code closure files after independent SHA recovery copies; complete prior Git trees and cached V24/V23/V22.1 families retained. Root media, models, originals and decoders preserved.",
+  "legacyFiles": "V25 preserves the upstream Qinghai literature museum project and its prior retirement of124 obsolete code files. Seven unreferenced early eZ-family scripts/styles retire only after independent SHA/Git-blob copies; originalV22 and recentV22.1/V23/V24 cache families remain. Prior31-file ab0072 recovery copies and complete Git histories remain. Root media, all original campus GLBs and decoders are unchanged.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -247,7 +247,7 @@
   },
   "experienceV25": {
     "sourceCommit": "ccd7d5b1f8f438d706cc0a45e0e158c67c0c3939",
-    "previousPublicCommit": "ab0072decd7994aab20e0e94e8eb77e5a7b58ba3",
+    "previousPublicCommit": "69a36c5623fbc9836eb0fea873fb65b2d724724c",
     "camera": {
       "cycleMs": 44200,
       "defaultRotation": true,
@@ -272,6 +272,7 @@
     "newPublicCommerceImages": 41,
     "geometryAndDownloadsUnchanged": true,
     "physicalMobileAcceptance": false,
-    "indexSHA256": "4316424f62f1c514958eb12d46dbb3b7e0b0dc1feeec642b42096306d4e072e3"
+    "indexSHA256": "4316424f62f1c514958eb12d46dbb3b7e0b0dc1feeec642b42096306d4e072e3",
+    "priorCampusRuntimeCommit": "ab0072decd7994aab20e0e94e8eb77e5a7b58ba3"
   }
 }
