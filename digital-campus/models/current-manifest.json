@@ -1,5 +1,5 @@
 {
-  "version": "20261006-v24",
+  "version": "20261006-v25",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "V24 initial release retired 8 unused V17 JS/CSS originals; the panel follow-up retires the full 15-file V18 shared-CSS reverse-dependency closure only after independent SHA-verified backup. Complete V23 b95090c and first V24 4d45c8b public Git trees remain; cached first V24/V23/V22.1, shared MapLibre, root media, GLBs and decoders preserved.",
+  "legacyFiles": "V25 retires only 31 unused V13/V14/V15/V16 code closure files after independent SHA recovery copies; complete prior Git trees and cached V24/V23/V22.1 families retained. Root media, models, originals and decoders preserved.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261006-v24",
+  "runtimeVersion": "20261006-v25",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "North-up 3s geographic travel with bounded native-framebuffer motion blur and genuine partial imagery; render-scale-aware reveal; clear street handoff; independent default automatic orbit and continuous architectural modulation.",
+  "runtimePresentation": "Coordinated safe 44.2s architectural camera loop and independent automatic rotation; original company-name holds, restrained existing nighttime fill; unchanged north-up geographic journey and source PBR materials.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -244,5 +244,34 @@
     "geometryAndDownloads": "V13/V9 original bytes preserved",
     "physicalMobileAcceptance": false,
     "indexSHA256": "539d1ed71ecf409bc06b78b56706893f2d5dd6957f6d55d3be49e44c70155563"
+  },
+  "experienceV25": {
+    "sourceCommit": "ccd7d5b1f8f438d706cc0a45e0e158c67c0c3939",
+    "previousPublicCommit": "ab0072decd7994aab20e0e94e8eb77e5a7b58ba3",
+    "camera": {
+      "cycleMs": 44200,
+      "defaultRotation": true,
+      "defaultCinema": true,
+      "singleOwner": "film director with bounded rotation arc when cinema is enabled; safe full-compound native orbit when cinema disabled",
+      "shots": [
+        "establishing",
+        "original company name hold",
+        "facade dolly",
+        "lateral crane",
+        "settle",
+        "safe return"
+      ],
+      "companyName": "Existing GLB company sign geometry, complete ALA gate and TYD sign/002646 in view",
+      "obstacles": "actual loaded world-space mesh bounds; segment and near-plane clearance",
+      "manualTakeover": "pauses both, smooth explicit resume",
+      "independentSwitches": true
+    },
+    "nightFill": "Existing hemisphere/environment/fill strengths increased only at night; daylight strengths, light count and exposure unchanged",
+    "editorial": "2026-10-06 bounded first-party refresh, PKU fixed feature and 2026 third-batch stock-transfer notice; ALA description verified2026-10-03 because current API failed",
+    "commerce": "Actual official Tmall first-screen sales/default observations; TYD29 sales cards and ALA2 composite cards, JD sourced category links/promotion; not129 full products or inventory",
+    "newPublicCommerceImages": 41,
+    "geometryAndDownloadsUnchanged": true,
+    "physicalMobileAcceptance": false,
+    "indexSHA256": "4316424f62f1c514958eb12d46dbb3b7e0b0dc1feeec642b42096306d4e072e3"
   }
 }

@@ -1,0 +1,2872 @@
+{
+  "kind": "official-commerce-v25",
+  "date": "2026-10-06",
+  "sources": [
+    {
+      "platform": "tmall",
+      "store": "天佑德旗舰店",
+      "url": "https://tianyoude.tmall.com/shop/view_shop.htm",
+      "officialAuthority": "same store link recorded by original002646官网",
+      "defaultSort": "综合",
+      "salesSort": "销量",
+      "reportedTotalCnt": 129,
+      "capturedDefaultItems": 30,
+      "capturedSalesItems": 30,
+      "unifiedCrossPlatformSalesRank": false
+    },
+    {
+      "platform": "jd",
+      "store": "天佑德旗舰店",
+      "url": "https://mall.jd.com/index-714336.html?from=pc",
+      "defaultAllProducts": "login-gated; not obtained",
+      "scope": "homepage hero banners and currently visible category navigation only"
+    }
+  ],
+  "campuses": {
+    "tianyoude": {
+      "products": [
+        {
+          "id": "tmall-557315471632",
+          "name": "【小瓶白酒】天佑德青稞酒42度/52度小黑125ml*4青藏聚会特产好礼",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/7fdc9ebacb4fda7e5823.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557315471632",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557315471632"
+          },
+          "specs": {
+            "酒精度": "42 / 52度",
+            "净含量": "125ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6104893780226",
+              "skuId": "6104893780226",
+              "sellerSpecVerbatim": "42度小黑4瓶（一条）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01ooJfci1j9nox0s9JN_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557315471632&skuId=6104893780226"
+            },
+            {
+              "id": "tmall-sku-6104893780227",
+              "skuId": "6104893780227",
+              "sellerSpecVerbatim": "52度小黑4瓶（一条）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01hNc1xq1j9nosTpPqb_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557315471632&skuId=6104893780227"
+            }
+          ],
+          "sellerTitleVerbatim": "【小瓶白酒】天佑德青稞酒42度/52度小黑125ml*4青藏聚会特产好礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 1,
+            "sales": 1
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【小瓶白酒】天佑德青稞酒42度/52度小黑125ml*4青藏聚会特产好礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 1,
+            "sales": 1
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN015VMc0j1j9nlyeGC5U_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-607877567652",
+          "name": "【小瓶白酒】天佑德青稞酒52度小黑青藏特产文创版清香型礼盒收藏",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/6a75e41fb6ec16c89871.webp",
+          "source": "https://detail.tmall.com/item.htm?id=607877567652",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=607877567652"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6057678096298",
+              "skuId": "6057678096298",
+              "sellerSpecVerbatim": "125ml*4(一条)",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01qmBz3g1j9nnv1Bko7_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096298"
+            },
+            {
+              "id": "tmall-sku-6057678096299",
+              "skuId": "6057678096299",
+              "sellerSpecVerbatim": "125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN010QvSq11j9nnuxRWJ9_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096299"
+            },
+            {
+              "id": "tmall-sku-6057678096302",
+              "skuId": "6057678096302",
+              "sellerSpecVerbatim": "125ml*4*6(整箱)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01JuikoG1j9nnv5f9Oe_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096302"
+            },
+            {
+              "id": "tmall-sku-6057678096303",
+              "skuId": "6057678096303",
+              "sellerSpecVerbatim": "125ml*4大美青海(一条)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01fT55QJ1j9nnuxV0hY_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096303"
+            },
+            {
+              "id": "tmall-sku-6057678096304",
+              "skuId": "6057678096304",
+              "sellerSpecVerbatim": "125ml*4*2大美青海(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01rigjja1j9nnq1N0nx_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096304"
+            },
+            {
+              "id": "tmall-sku-6057678096305",
+              "skuId": "6057678096305",
+              "sellerSpecVerbatim": "125ml*4*6大美青海(整箱)",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01WCoOIO1j9nnueauPq_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096305"
+            },
+            {
+              "id": "tmall-sku-6057678096300",
+              "skuId": "6057678096300",
+              "sellerSpecVerbatim": "125ml*4丝路飞天(一条)",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01nfZzen1j9nnv1FVts_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=607877567652&skuId=6057678096300"
+            }
+          ],
+          "sellerTitleVerbatim": "【小瓶白酒】天佑德青稞酒52度小黑青藏特产文创版清香型礼盒收藏",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 2,
+            "sales": 2
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【小瓶白酒】天佑德青稞酒52度小黑青藏特产文创版清香型礼盒收藏",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 2,
+            "sales": 2
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01H8zi5a1j9nktZDdcZ_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-973049662261",
+          "name": "[尝鲜试饮]天佑德42度小黑125ml 单瓶包邮试饮小白酒清香型",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/c418247163a667f35076.webp",
+          "source": "https://detail.tmall.com/item.htm?id=973049662261",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=973049662261"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "125ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [],
+          "sellerTitleVerbatim": "[尝鲜试饮]天佑德42度小黑125ml 单瓶包邮试饮小白酒清香型",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 17,
+            "sales": 3
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "[尝鲜试饮]天佑德42度小黑125ml 单瓶包邮试饮小白酒清香型",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 17,
+            "sales": 3
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01C3aUoV1j9nooskzlv_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-915753807431",
+          "name": "天佑德流沙雪莉青稞酒 43度750ml 青海 西班牙雪莉桶特产聚会好礼",
+          "displayName": "流沙雪莉",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "流沙雪莉",
+          "image": "assets/commerce-v25/dd509c66eef7fd0eb02d.webp",
+          "source": "https://detail.tmall.com/item.htm?id=915753807431",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=915753807431"
+          },
+          "specs": {
+            "酒精度": "43度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6115336419306",
+              "skuId": "6115336419306",
+              "sellerSpecVerbatim": "6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN014NYcsV1j9nma438D6_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=915753807431&skuId=6115336419306"
+            },
+            {
+              "id": "tmall-sku-5951415875906",
+              "skuId": "5951415875906",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01M2nAk71j9nmaTZiNi_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=915753807431&skuId=5951415875906"
+            },
+            {
+              "id": "tmall-sku-6115336419307",
+              "skuId": "6115336419307",
+              "sellerSpecVerbatim": "双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01b4lJpY1j9nmYmGDmf_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=915753807431&skuId=6115336419307"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德流沙雪莉青稞酒 43度750ml 青海 西班牙雪莉桶特产聚会好礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 4
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德流沙雪莉青稞酒 43度750ml 青海 西班牙雪莉桶特产聚会好礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 4
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01ZQMJWq1j9no2dyzFd_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-911326323945",
+          "name": "天佑德青稞酒52度有机出口型和平版750ml清香型白酒礼盒送礼",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/103b08b647821283aecd.webp",
+          "source": "https://detail.tmall.com/item.htm?id=911326323945",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=911326323945"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "750ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-5918063964418",
+              "skuId": "5918063964418",
+              "sellerSpecVerbatim": "和平版2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN0142aXNI1j9nmMXHLmN_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=5918063964418"
+            },
+            {
+              "id": "tmall-sku-5774658904135",
+              "skuId": "5774658904135",
+              "sellerSpecVerbatim": "和平版单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Wa8W5t1j9nmMBbzT2_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=5774658904135"
+            },
+            {
+              "id": "tmall-sku-6270620123153",
+              "skuId": "6270620123153",
+              "sellerSpecVerbatim": "和平版单瓶加美乐干红",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01xbVHF91j9noXQWtQq_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=6270620123153"
+            },
+            {
+              "id": "tmall-sku-6270620123154",
+              "skuId": "6270620123154",
+              "sellerSpecVerbatim": "和平版单瓶加西拉干红",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01Ncsat31j9noXqMy09_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=6270620123154"
+            },
+            {
+              "id": "tmall-sku-5918063964417",
+              "skuId": "5918063964417",
+              "sellerSpecVerbatim": "和平版6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01RVxgyI1j9nmMndR1e_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=5918063964417"
+            },
+            {
+              "id": "tmall-sku-6270620123155",
+              "skuId": "6270620123155",
+              "sellerSpecVerbatim": "和平版单瓶加金粉黛单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Zx08J61j9noXn5O2k_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=911326323945&skuId=6270620123155"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒52度有机出口型和平版750ml清香型白酒礼盒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 5
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒52度有机出口型和平版750ml清香型白酒礼盒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 5
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01jB8y1V1j9no0uFY0H_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-557998727743",
+          "name": "天佑德青稞酒52度海拔3000清香型白酒500ml 整箱青海特产",
+          "displayName": "海拔3000",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "海拔3000",
+          "image": "assets/commerce-v25/fb7e3e2ffc72a925da56.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557998727743",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557998727743"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6277023122152",
+              "skuId": "6277023122152",
+              "sellerSpecVerbatim": "6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01U2QnDr1j9noRSupQ2_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557998727743&skuId=6277023122152"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒52度海拔3000清香型白酒500ml 整箱青海特产",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 19,
+            "sales": 6
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒52度海拔3000清香型白酒500ml 整箱青海特产",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 19,
+            "sales": 6
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01eEkmzj1j9nmyqnpPX_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-629776291158",
+          "name": "天佑德青稞酒52度/42度有机出口型750ml大容量装清香型白酒",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/9bb7c68dc6170eb5faf3.webp",
+          "source": "https://detail.tmall.com/item.htm?id=629776291158",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=629776291158"
+          },
+          "specs": {
+            "酒精度": "52 / 42度",
+            "净含量": "750ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6261306090999",
+              "skuId": "6261306090999",
+              "sellerSpecVerbatim": "42度2瓶送老字号金标（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01gqZ9lQ1j9noh1Gl2d_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6261306090999"
+            },
+            {
+              "id": "tmall-sku-6233670658621",
+              "skuId": "6233670658621",
+              "sellerSpecVerbatim": "52度2瓶送老字号金标（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01351WIv1j9noh6Fctj_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6233670658621"
+            },
+            {
+              "id": "tmall-sku-6261306090998",
+              "skuId": "6261306090998",
+              "sellerSpecVerbatim": "42度6瓶整箱送昆仑山（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN0139I6ID1j9noh1Gl2j_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6261306090998"
+            },
+            {
+              "id": "tmall-sku-6281865530859",
+              "skuId": "6281865530859",
+              "sellerSpecVerbatim": "42度藏香双支礼盒装",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN015fIs1s1j9npLdVv10_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6281865530859"
+            },
+            {
+              "id": "tmall-sku-6281865530858",
+              "skuId": "6281865530858",
+              "sellerSpecVerbatim": "52度藏香双支礼盒装",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01FzZ8Yy1j9npLaALtI_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6281865530858"
+            },
+            {
+              "id": "tmall-sku-6233670658623",
+              "skuId": "6233670658623",
+              "sellerSpecVerbatim": "52度6瓶整箱送昆仑山（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01QlHKL11j9nogmhLT2_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629776291158&skuId=6233670658623"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒52度/42度有机出口型750ml大容量装清香型白酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 5,
+            "sales": 7
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒52度/42度有机出口型750ml大容量装清香型白酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 5,
+            "sales": 7
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01AstFHM1j9noyxI8ga_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-557879037218",
+          "name": "【热卖推荐】天佑德青稞酒 52度生态五星 清香型白酒送礼礼盒青海",
+          "displayName": "生态系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "生态系列",
+          "image": "assets/commerce-v25/f668ca7a54e70a37f876.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557879037218",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557879037218"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6233736626344",
+              "skuId": "6233736626344",
+              "sellerSpecVerbatim": "500ml",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01ARZSby1j9no9HyM2P_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557879037218&skuId=6233736626344"
+            },
+            {
+              "id": "tmall-sku-6233736626343",
+              "skuId": "6233736626343",
+              "sellerSpecVerbatim": "500ml*6瓶 整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01pwzBxQ1j9no8oLMba_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557879037218&skuId=6233736626343"
+            },
+            {
+              "id": "tmall-sku-6233736626342",
+              "skuId": "6233736626342",
+              "sellerSpecVerbatim": "500ml*2瓶 （有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN0197bDYz1j9no8jM1rd_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557879037218&skuId=6233736626342"
+            }
+          ],
+          "sellerTitleVerbatim": "【热卖推荐】天佑德青稞酒 52度生态五星 清香型白酒送礼礼盒青海",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 15,
+            "sales": 8
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【热卖推荐】天佑德青稞酒 52度生态五星 清香型白酒送礼礼盒青海",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 15,
+            "sales": 8
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01Ougkpt1j9nl1Tb6B7_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-557312259822",
+          "name": "【节礼】天佑德青稞酒52度海拔2600青海清香型白酒500ml送礼",
+          "displayName": "海拔2600",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "海拔2600",
+          "image": "assets/commerce-v25/0ef0eba7fef44f740b83.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557312259822",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557312259822"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6223645215367",
+              "skuId": "6223645215367",
+              "sellerSpecVerbatim": "牦牛版双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01NlYSdM1j9nnv7IDHt_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215367"
+            },
+            {
+              "id": "tmall-sku-6270704171902",
+              "skuId": "6270704171902",
+              "sellerSpecVerbatim": "2600单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01JWfxdv1j9nothJ5Sl_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6270704171902"
+            },
+            {
+              "id": "tmall-sku-6270704171901",
+              "skuId": "6270704171901",
+              "sellerSpecVerbatim": "2600双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01z1vHeP1j9noxxHLeY_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6270704171901"
+            },
+            {
+              "id": "tmall-sku-6270704171903",
+              "skuId": "6270704171903",
+              "sellerSpecVerbatim": "2600六瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Ar7kXc1j9noy4tJOp_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6270704171903"
+            },
+            {
+              "id": "tmall-sku-6223645215368",
+              "skuId": "6223645215368",
+              "sellerSpecVerbatim": "牦牛版单瓶",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN018xuKq31j9nnvdgqCL_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215368"
+            },
+            {
+              "id": "tmall-sku-6223645215363",
+              "skuId": "6223645215363",
+              "sellerSpecVerbatim": "格桑花6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01LfrfVk1j9nngX8EPm_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215363"
+            },
+            {
+              "id": "tmall-sku-6223645215364",
+              "skuId": "6223645215364",
+              "sellerSpecVerbatim": "格桑花双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01aHjGuO1j9nno9smgo_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215364"
+            },
+            {
+              "id": "tmall-sku-6223645215366",
+              "skuId": "6223645215366",
+              "sellerSpecVerbatim": "牦牛版6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01advoIY1j9nnviLTLI_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215366"
+            },
+            {
+              "id": "tmall-sku-6223645215365",
+              "skuId": "6223645215365",
+              "sellerSpecVerbatim": "格桑花单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01tGideB1j9nnnzBjZw_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557312259822&skuId=6223645215365"
+            }
+          ],
+          "sellerTitleVerbatim": "【节礼】天佑德青稞酒52度海拔2600青海清香型白酒500ml送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 9,
+            "sales": 9
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【节礼】天佑德青稞酒52度海拔2600青海清香型白酒500ml送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 9,
+            "sales": 9
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01a3Rjh61j9nnSAH8gO_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-600571472696",
+          "name": "【青藏文创】天佑德青稞酒 52度小黑大美青海 小酒纯粮白酒清香型",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/ef3b4a594fb679013c62.webp",
+          "source": "https://detail.tmall.com/item.htm?id=600571472696",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=600571472696"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6065087544823",
+              "skuId": "6065087544823",
+              "sellerSpecVerbatim": "大美青海 125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN019ZnJxN1j9no4aeWqt_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544823"
+            },
+            {
+              "id": "tmall-sku-6065087544830",
+              "skuId": "6065087544830",
+              "sellerSpecVerbatim": "丝绸之路 125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01EkRxZE1j9no4pGSrr_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544830"
+            },
+            {
+              "id": "tmall-sku-6065087544829",
+              "skuId": "6065087544829",
+              "sellerSpecVerbatim": "普通版 125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01VK6b4C1j9nnvIVTEV_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544829"
+            },
+            {
+              "id": "tmall-sku-6065087544822",
+              "skuId": "6065087544822",
+              "sellerSpecVerbatim": "大美青海 125ml*4*2 （有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01rigjja1j9nnq1N0nx_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544822"
+            },
+            {
+              "id": "tmall-sku-6065087544821",
+              "skuId": "6065087544821",
+              "sellerSpecVerbatim": "大美青海 125ml*4*6 整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01WCoOIO1j9nnueauPq_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544821"
+            },
+            {
+              "id": "tmall-sku-6065087544828",
+              "skuId": "6065087544828",
+              "sellerSpecVerbatim": "普通版 125ml*4*2 （有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN010QvSq11j9nnuxRWJ9_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544828"
+            },
+            {
+              "id": "tmall-sku-6065087544827",
+              "skuId": "6065087544827",
+              "sellerSpecVerbatim": "普通版125ml*4*6 整箱",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01JuikoG1j9nnv5f9Oe_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=600571472696&skuId=6065087544827"
+            }
+          ],
+          "sellerTitleVerbatim": "【青藏文创】天佑德青稞酒 52度小黑大美青海 小酒纯粮白酒清香型",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 10
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青藏文创】天佑德青稞酒 52度小黑大美青海 小酒纯粮白酒清香型",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 10
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01lhtpyK1j9no4eBX6Z_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-616005343767",
+          "name": "【有机白酒】天佑德青稞酒52度国之德G6 500ml青海特产22年产",
+          "displayName": "国之德G6",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "国之德G6",
+          "image": "assets/commerce-v25/fdc98e2454826b8df00a.webp",
+          "source": "https://detail.tmall.com/item.htm?id=616005343767",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=616005343767"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6228969414785",
+              "skuId": "6228969414785",
+              "sellerSpecVerbatim": "500ml",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01Sz9I2B1j9no2etizk_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=616005343767&skuId=6228969414785"
+            },
+            {
+              "id": "tmall-sku-6228969414784",
+              "skuId": "6228969414784",
+              "sellerSpecVerbatim": "6瓶整箱送翡翠1瓶（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01aHBQpC1j9nocmSRGg_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=616005343767&skuId=6228969414784"
+            },
+            {
+              "id": "tmall-sku-6228969414783",
+              "skuId": "6228969414783",
+              "sellerSpecVerbatim": "2瓶送金粉黛1瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01zpJCmg1j9noeJtDkD_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=616005343767&skuId=6228969414783"
+            }
+          ],
+          "sellerTitleVerbatim": "【有机白酒】天佑德青稞酒52度国之德G6 500ml青海特产22年产",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 3,
+            "sales": 11
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【有机白酒】天佑德青稞酒52度国之德G6 500ml青海特产22年产",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 3,
+            "sales": 11
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01eBEBXZ1j9nooPNE2j_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-556903306823",
+          "name": "【品牌直销】天佑德青稞酒 52度生态五星清香型纯粮白酒整箱送礼",
+          "displayName": "生态系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "生态系列",
+          "image": "assets/commerce-v25/c265880f02787688df03.webp",
+          "source": "https://detail.tmall.com/item.htm?id=556903306823",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=556903306823"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [],
+          "sellerTitleVerbatim": "【品牌直销】天佑德青稞酒 52度生态五星清香型纯粮白酒整箱送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 12
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【品牌直销】天佑德青稞酒 52度生态五星清香型纯粮白酒整箱送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 12
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN0139JLrP1j9nl2McQ8i_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-619019416598",
+          "name": "【线下同款】天佑德青稞酒52度出口型750ml有机纯粮白酒送礼",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/874017e2c81a42990ccc.webp",
+          "source": "https://detail.tmall.com/item.htm?id=619019416598",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=619019416598"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6229073254399",
+              "skuId": "6229073254399",
+              "sellerSpecVerbatim": "和平版2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01LRtDBS1j9no3QshF4_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254399"
+            },
+            {
+              "id": "tmall-sku-6229073254398",
+              "skuId": "6229073254398",
+              "sellerSpecVerbatim": "阿狸6瓶整箱（3个礼袋）",
+              "image": "assets/commerce-v25/874017e2c81a42990ccc.webp",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254398",
+              "imageUnavailable": true,
+              "imageSource": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN014GwTaJ1j9nnWHlJs9~crop,45,0,583,583~_!!2155224506.png",
+              "imageNote": "原店铺此规格图片暂不可用，显示同商品主图；规格及购买入口保留原文。"
+            },
+            {
+              "id": "tmall-sku-6229073254396",
+              "skuId": "6229073254396",
+              "sellerSpecVerbatim": "和平版6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN010NXy361j9nl3IRnpK_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254396"
+            },
+            {
+              "id": "tmall-sku-6281869406248",
+              "skuId": "6281869406248",
+              "sellerSpecVerbatim": "52度藏香双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01MYtfOM1j9npLe18XO_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6281869406248"
+            },
+            {
+              "id": "tmall-sku-6107869056929",
+              "skuId": "6107869056929",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN015MCTul1j9ni2ctpnn_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6107869056929"
+            },
+            {
+              "id": "tmall-sku-6107869056928",
+              "skuId": "6107869056928",
+              "sellerSpecVerbatim": "阿狸单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01EZNEyv1j9np2X8QWJ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6107869056928"
+            },
+            {
+              "id": "tmall-sku-6229073254397",
+              "skuId": "6229073254397",
+              "sellerSpecVerbatim": "2瓶送金宝老字号（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN016SL5An1j9noyipXmG_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254397"
+            },
+            {
+              "id": "tmall-sku-6229073254400",
+              "skuId": "6229073254400",
+              "sellerSpecVerbatim": "阿狸2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01dU4qIb1j9no3InfIv_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254400"
+            },
+            {
+              "id": "tmall-sku-6107869056930",
+              "skuId": "6107869056930",
+              "sellerSpecVerbatim": "和平版单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01reOwu41j9nlNZ3Wle_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6107869056930"
+            },
+            {
+              "id": "tmall-sku-6229073254395",
+              "skuId": "6229073254395",
+              "sellerSpecVerbatim": "6瓶整箱送昆仑山（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN012KFQPt1j9np0V7y5x_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=619019416598&skuId=6229073254395"
+            }
+          ],
+          "sellerTitleVerbatim": "【线下同款】天佑德青稞酒52度出口型750ml有机纯粮白酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 13
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【线下同款】天佑德青稞酒52度出口型750ml有机纯粮白酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 13
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01oUrR241j9np0VP9YG_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-927599243132",
+          "name": "天佑德流沙雪莉青稞酒43度750ml 盒装青海酒厂送礼",
+          "displayName": "流沙雪莉",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "流沙雪莉",
+          "image": "assets/commerce-v25/011549b1d0818362d3c4.webp",
+          "source": "https://detail.tmall.com/item.htm?id=927599243132",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=927599243132"
+          },
+          "specs": {
+            "酒精度": "43度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6234726663656",
+              "skuId": "6234726663656",
+              "sellerSpecVerbatim": "750ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01XF0YQw1j9no9r5oTd_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6234726663656"
+            },
+            {
+              "id": "tmall-sku-6106195121650",
+              "skuId": "6106195121650",
+              "sellerSpecVerbatim": "雪莉单瓶加金粉黛单瓶",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01VavCAF1j9nmYed7Kq_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6106195121650"
+            },
+            {
+              "id": "tmall-sku-6106195121648",
+              "skuId": "6106195121648",
+              "sellerSpecVerbatim": "雪莉单瓶加美乐干红",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Fr739z1j9noXdkVww_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6106195121648"
+            },
+            {
+              "id": "tmall-sku-6234726663657",
+              "skuId": "6234726663657",
+              "sellerSpecVerbatim": "750ml*2瓶 （1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01vjcJwO1j9no9YDejx_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6234726663657"
+            },
+            {
+              "id": "tmall-sku-6106195121649",
+              "skuId": "6106195121649",
+              "sellerSpecVerbatim": "雪莉单瓶加西拉干红",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01g3y8CV1j9nmCC7wYv_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6106195121649"
+            },
+            {
+              "id": "tmall-sku-6234726663658",
+              "skuId": "6234726663658",
+              "sellerSpecVerbatim": "750ml*6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01DdijTY1j9no9H9HK8_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=927599243132&skuId=6234726663658"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德流沙雪莉青稞酒43度750ml 盒装青海酒厂送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 26,
+            "sales": 14
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德流沙雪莉青稞酒43度750ml 盒装青海酒厂送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 26,
+            "sales": 14
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01emaljn1j9no9eafP4_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-41640317679",
+          "name": "【高性价比】天佑德青稞白酒42度/52度有机出口型750ml送礼",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/ddcfc1ce9913a185e9cf.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41640317679",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41640317679"
+          },
+          "specs": {
+            "酒精度": "42 / 52度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6270120347472",
+              "skuId": "6270120347472",
+              "sellerSpecVerbatim": "52度双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN016SL5An1j9noyipXmG_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6270120347472"
+            },
+            {
+              "id": "tmall-sku-6270120347473",
+              "skuId": "6270120347473",
+              "sellerSpecVerbatim": "42度6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01qy5lNm1j9noyq7mQK_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6270120347473"
+            },
+            {
+              "id": "tmall-sku-6270120347474",
+              "skuId": "6270120347474",
+              "sellerSpecVerbatim": "42度双瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01w8EmY51j9nouSsy60_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6270120347474"
+            },
+            {
+              "id": "tmall-sku-6282139199781",
+              "skuId": "6282139199781",
+              "sellerSpecVerbatim": "52度藏香双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01r98AtF1j9npLPlGNu_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6282139199781"
+            },
+            {
+              "id": "tmall-sku-6282139199782",
+              "skuId": "6282139199782",
+              "sellerSpecVerbatim": "42度藏香双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01Vmn4Mu1j9npLjmcHD_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6282139199782"
+            },
+            {
+              "id": "tmall-sku-6270120347471",
+              "skuId": "6270120347471",
+              "sellerSpecVerbatim": "52度6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN012KFQPt1j9np0V7y5x_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640317679&skuId=6270120347471"
+            }
+          ],
+          "sellerTitleVerbatim": "【高性价比】天佑德青稞白酒42度/52度有机出口型750ml送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 15
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【高性价比】天佑德青稞白酒42度/52度有机出口型750ml送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 15
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01fk1gyu1j9noyzEOvJ_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-41440706843",
+          "name": "天佑德52度海拔2600整箱500ml*6青稞酒清香型白酒青海酒送礼",
+          "displayName": "海拔2600",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "海拔2600",
+          "image": "assets/commerce-v25/c355b1ef5647ee03b776.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41440706843",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41440706843"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6057986700685",
+              "skuId": "6057986700685",
+              "sellerSpecVerbatim": "格桑花版整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01LfrfVk1j9nngX8EPm_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41440706843&skuId=6057986700685"
+            },
+            {
+              "id": "tmall-sku-6105753729266",
+              "skuId": "6105753729266",
+              "sellerSpecVerbatim": "牦牛版整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01iEjjcR1j9nox9yO77_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41440706843&skuId=6105753729266"
+            },
+            {
+              "id": "tmall-sku-6226930536000",
+              "skuId": "6226930536000",
+              "sellerSpecVerbatim": "2600整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01T6EPK41j9nohTKQft_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41440706843&skuId=6226930536000"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德52度海拔2600整箱500ml*6青稞酒清香型白酒青海酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 18,
+            "sales": 17
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德52度海拔2600整箱500ml*6青稞酒清香型白酒青海酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 18,
+            "sales": 17
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN016U0pPE1j9no0riD47_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-559126104059",
+          "name": "【青海文创】天佑德青稞酒42度小黑125ml礼盒小瓶小酒清香型白酒",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/53c4e2ecae7f15c554c9.webp",
+          "source": "https://detail.tmall.com/item.htm?id=559126104059",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=559126104059"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "125ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6162442843977",
+              "skuId": "6162442843977",
+              "sellerSpecVerbatim": "125ml*4*6（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01vPWlRX1j9nmhYVAzW_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6162442843977"
+            },
+            {
+              "id": "tmall-sku-6223318351796",
+              "skuId": "6223318351796",
+              "sellerSpecVerbatim": "125ml*4（1条装)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN019tY0so1j9nnvGZTTR_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351796"
+            },
+            {
+              "id": "tmall-sku-6223318351797",
+              "skuId": "6223318351797",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4（1条装)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN0142czgz1j9nnulKZ7C_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351797"
+            },
+            {
+              "id": "tmall-sku-6223318351798",
+              "skuId": "6223318351798",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4*2（两条装）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01l1iHFs1j9nnv2kUcm_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351798"
+            },
+            {
+              "id": "tmall-sku-6129743431346",
+              "skuId": "6129743431346",
+              "sellerSpecVerbatim": "125ml*4*2（两条装）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN018VB3UP1j9nmhg8ZFt_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6129743431346"
+            },
+            {
+              "id": "tmall-sku-6223318351799",
+              "skuId": "6223318351799",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4*6（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01fwH4J61j9nnvGcd2S_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351799"
+            },
+            {
+              "id": "tmall-sku-6223318351800",
+              "skuId": "6223318351800",
+              "sellerSpecVerbatim": "小聚装125ml*6（1条装)",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01kEuBHr1j9nnvHgmQw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351800"
+            },
+            {
+              "id": "tmall-sku-6223318351801",
+              "skuId": "6223318351801",
+              "sellerSpecVerbatim": "小聚装125ml*6*4（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Kvzttb1j9nnvAQcIw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=559126104059&skuId=6223318351801"
+            }
+          ],
+          "sellerTitleVerbatim": "【青海文创】天佑德青稞酒42度小黑125ml礼盒小瓶小酒清香型白酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 6,
+            "sales": 18
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青海文创】天佑德青稞酒42度小黑125ml礼盒小瓶小酒清香型白酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 6,
+            "sales": 18
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01CfKVgI1j9nnv3cbTj_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-629175797273",
+          "name": "节日送礼天佑德出口型青稞酒42度/52度750ml双支礼盒清香白酒特产",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/20d375d579b78b113494.webp",
+          "source": "https://detail.tmall.com/item.htm?id=629175797273",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=629175797273"
+          },
+          "specs": {
+            "酒精度": "42 / 52度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6281852998037",
+              "skuId": "6281852998037",
+              "sellerSpecVerbatim": "52度普标双瓶礼盒装",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01rU22b01j9npLjU1Pg_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629175797273&skuId=6281852998037"
+            },
+            {
+              "id": "tmall-sku-6281852998038",
+              "skuId": "6281852998038",
+              "sellerSpecVerbatim": "42度普标双瓶礼盒装",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01gXmROJ1j9npNE8MX0_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=629175797273&skuId=6281852998038"
+            }
+          ],
+          "sellerTitleVerbatim": "节日送礼天佑德出口型青稞酒42度/52度750ml双支礼盒清香白酒特产",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 12,
+            "sales": 19
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "节日送礼天佑德出口型青稞酒42度/52度750ml双支礼盒清香白酒特产",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 12,
+            "sales": 19
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01tXnlDknRUVF1chua_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-41611802948",
+          "name": "【线下同款】天佑德青稞酒 42度红四天纯粮白酒婚庆聚会送礼",
+          "displayName": "星级系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "星级系列",
+          "image": "assets/commerce-v25/ca07302e539870abbe16.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41611802948",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41611802948"
+          },
+          "specs": {
+            "酒精度": "42度"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6059065553874",
+              "skuId": "6059065553874",
+              "sellerSpecVerbatim": "2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01iNJS3v1j9nnvvxC7S_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41611802948&skuId=6059065553874"
+            },
+            {
+              "id": "tmall-sku-6059065553873",
+              "skuId": "6059065553873",
+              "sellerSpecVerbatim": "6瓶（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01jyrXg11j9nnwxKwlk_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41611802948&skuId=6059065553873"
+            },
+            {
+              "id": "tmall-sku-6059065553875",
+              "skuId": "6059065553875",
+              "sellerSpecVerbatim": "双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01aFncSY1j9nnvDk09Y_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41611802948&skuId=6059065553875"
+            },
+            {
+              "id": "tmall-sku-6059065553876",
+              "skuId": "6059065553876",
+              "sellerSpecVerbatim": "1瓶",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01oBNuIS1j9nnv640os_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41611802948&skuId=6059065553876"
+            }
+          ],
+          "sellerTitleVerbatim": "【线下同款】天佑德青稞酒 42度红四天纯粮白酒婚庆聚会送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 29,
+            "sales": 20
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【线下同款】天佑德青稞酒 42度红四天纯粮白酒婚庆聚会送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 29,
+            "sales": 20
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01lZGn9A1j9nnvEwn2q_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-576719204361",
+          "name": "天佑德青稞酒42度岩窖30 整箱清香型白酒青海特产宴会小酌",
+          "displayName": "岩窖系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "岩窖系列",
+          "image": "assets/commerce-v25/2cb5a847da3ac24fb912.webp",
+          "source": "https://detail.tmall.com/item.htm?id=576719204361",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=576719204361"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6065359841766",
+              "skuId": "6065359841766",
+              "sellerSpecVerbatim": "500ml*4瓶 整箱",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01BkyEDn1j9nntLFoMj_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576719204361&skuId=6065359841766"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒42度岩窖30 整箱清香型白酒青海特产宴会小酌",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 21,
+            "sales": 21
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒42度岩窖30 整箱清香型白酒青海特产宴会小酌",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 21,
+            "sales": 21
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01jgGEYh1j9naMZ3RKN_!!2-item_pic.png"
+        },
+        {
+          "id": "tmall-41443138753",
+          "name": "【酒厂直营】天佑德青稞酒生态三星45度500ml清香型白酒送礼",
+          "displayName": "生态系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "生态系列",
+          "image": "assets/commerce-v25/aca43dcf8085cd09edf1.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41443138753",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41443138753"
+          },
+          "specs": {
+            "酒精度": "45度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6234208955750",
+              "skuId": "6234208955750",
+              "sellerSpecVerbatim": "500ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01J9gQ6Q1j9no8rZ5WZ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41443138753&skuId=6234208955750"
+            },
+            {
+              "id": "tmall-sku-6234208955751",
+              "skuId": "6234208955751",
+              "sellerSpecVerbatim": "500ml*6瓶 整箱",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01UqJQ5A1j9no9DZtp5_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41443138753&skuId=6234208955751"
+            },
+            {
+              "id": "tmall-sku-6234208955749",
+              "skuId": "6234208955749",
+              "sellerSpecVerbatim": "500ml*2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01BtANPC1j9no9L4cwb_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41443138753&skuId=6234208955749"
+            }
+          ],
+          "sellerTitleVerbatim": "【酒厂直营】天佑德青稞酒生态三星45度500ml清香型白酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 24,
+            "sales": 22
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【酒厂直营】天佑德青稞酒生态三星45度500ml清香型白酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 24,
+            "sales": 22
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01IfM0RG1j9nnv0ZLdf_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-999993724587",
+          "name": "【有机白酒】天佑德青稞酒52度国之德翡翠版500ml清香型白酒送礼",
+          "displayName": "国之德翡翠",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "国之德翡翠",
+          "image": "assets/commerce-v25/ae9d6ee8a47596198011.webp",
+          "source": "https://detail.tmall.com/item.htm?id=999993724587",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=999993724587"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6149436278066",
+              "skuId": "6149436278066",
+              "sellerSpecVerbatim": "500ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01z5tzin1j9nohTVaV7_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=6149436278066"
+            },
+            {
+              "id": "tmall-sku-6284718187706",
+              "skuId": "6284718187706",
+              "sellerSpecVerbatim": "6瓶 整箱（3个礼袋）送原品1瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01I3hdGaBRMJH1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=6284718187706"
+            },
+            {
+              "id": "tmall-sku-6094570373232",
+              "skuId": "6094570373232",
+              "sellerSpecVerbatim": "6瓶 整箱（3个礼袋）送纳帕谷赤霞珠1瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01kYsCwl1j9noYEPtZO_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=6094570373232"
+            },
+            {
+              "id": "tmall-sku-5984093201646",
+              "skuId": "5984093201646",
+              "sellerSpecVerbatim": "2瓶 （1个礼袋）送金粉黛1瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01uXzMrC1j9nocfkbLQ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=5984093201646"
+            },
+            {
+              "id": "tmall-sku-6259174986305",
+              "skuId": "6259174986305",
+              "sellerSpecVerbatim": "1瓶翡翠和西拉干红组合",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN011DiBa71j9nocc3an2_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=6259174986305"
+            },
+            {
+              "id": "tmall-sku-6259174986306",
+              "skuId": "6259174986306",
+              "sellerSpecVerbatim": "2瓶翡翠和西拉美乐组合",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01mvmiKT1j9nodLB8T9_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=999993724587&skuId=6259174986306"
+            }
+          ],
+          "sellerTitleVerbatim": "【有机白酒】天佑德青稞酒52度国之德翡翠版500ml清香型白酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 23
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【有机白酒】天佑德青稞酒52度国之德翡翠版500ml清香型白酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 23
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01GeXBX9MPE9B1chua_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-557337934386",
+          "name": "天佑德青稞酒生态三星45度500ml清香型白酒青海送礼团购酒",
+          "displayName": "生态系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "生态系列",
+          "image": "assets/commerce-v25/3f47603c8000eb5fb320.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557337934386",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557337934386"
+          },
+          "specs": {
+            "酒精度": "45度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6064704257399",
+              "skuId": "6064704257399",
+              "sellerSpecVerbatim": "500ml*6瓶(整箱)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01lBbubO1j9no3NBuJ3_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557337934386&skuId=6064704257399"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒生态三星45度500ml清香型白酒青海送礼团购酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 24
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒生态三星45度500ml清香型白酒青海送礼团购酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 24
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01hwTaqF1j9naJqtdxe_!!2-item_pic.png"
+        },
+        {
+          "id": "tmall-601343162120",
+          "name": "【有机白酒】天佑德青稞酒52度国之德真年份6年清香型白酒送礼",
+          "displayName": "国之德真年份",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "国之德真年份",
+          "image": "assets/commerce-v25/b157c22ca8b85fa36713.webp",
+          "source": "https://detail.tmall.com/item.htm?id=601343162120",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=601343162120"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6125523497554",
+              "skuId": "6125523497554",
+              "sellerSpecVerbatim": "4瓶整箱送金粉黛红酒（2个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01hjVO1znQEdI1chua_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=601343162120&skuId=6125523497554"
+            },
+            {
+              "id": "tmall-sku-6228979638041",
+              "skuId": "6228979638041",
+              "sellerSpecVerbatim": "500ml*2瓶送金粉黛红酒（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN013FMOaxC66CF1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=601343162120&skuId=6228979638041"
+            },
+            {
+              "id": "tmall-sku-6228979638040",
+              "skuId": "6228979638040",
+              "sellerSpecVerbatim": "500ml单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01aznYhQ1j9no2ZSIYO_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=601343162120&skuId=6228979638040"
+            }
+          ],
+          "sellerTitleVerbatim": "【有机白酒】天佑德青稞酒52度国之德真年份6年清香型白酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 13,
+            "sales": 25
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【有机白酒】天佑德青稞酒52度国之德真年份6年清香型白酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 13,
+            "sales": 25
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01O0h3lTYKgPB1chua_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-702337772487",
+          "name": "【青藏文创】天佑德青稞酒52度小黑125ml小瓶清香型白酒聚会特产",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/45beaf755639b5cea985.webp",
+          "source": "https://detail.tmall.com/item.htm?id=702337772487",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=702337772487"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "125ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6234036211683",
+              "skuId": "6234036211683",
+              "sellerSpecVerbatim": "125ml*4*6整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01mvH5xR1j9no8ll8e1_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211683"
+            },
+            {
+              "id": "tmall-sku-6234036211685",
+              "skuId": "6234036211685",
+              "sellerSpecVerbatim": "125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01g6LC2R1j9no95p2ew_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211685"
+            },
+            {
+              "id": "tmall-sku-6234036211692",
+              "skuId": "6234036211692",
+              "sellerSpecVerbatim": "丝绸之路125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01BoB9rp1j9no8iTzet_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211692"
+            },
+            {
+              "id": "tmall-sku-6234036211684",
+              "skuId": "6234036211684",
+              "sellerSpecVerbatim": "125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01hC8h1E1j9no8fB9NF_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211684"
+            },
+            {
+              "id": "tmall-sku-6234036211689",
+              "skuId": "6234036211689",
+              "sellerSpecVerbatim": "大美青海125ml*4*6整箱",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01aJdZuA1j9no8O0GIm_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211689"
+            },
+            {
+              "id": "tmall-sku-6234036211690",
+              "skuId": "6234036211690",
+              "sellerSpecVerbatim": "大美青海125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN016pZx6M1j9no3nosZA_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211690"
+            },
+            {
+              "id": "tmall-sku-6234036211687",
+              "skuId": "6234036211687",
+              "sellerSpecVerbatim": "大美青海125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01v3Z8Uk1j9no8UBm4c_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702337772487&skuId=6234036211687"
+            }
+          ],
+          "sellerTitleVerbatim": "【青藏文创】天佑德青稞酒52度小黑125ml小瓶清香型白酒聚会特产",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 26
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青藏文创】天佑德青稞酒52度小黑125ml小瓶清香型白酒聚会特产",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 26
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01x6jgzx1j9naQsg67s_!!2-item_pic.png"
+        },
+        {
+          "id": "tmall-708845536134",
+          "name": "【青海名酒】天佑德青稞酒42度红四星清香型红四天纯粮酒送礼",
+          "displayName": "星级系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "星级系列",
+          "image": "assets/commerce-v25/38f87231d814a69aab5a.webp",
+          "source": "https://detail.tmall.com/item.htm?id=708845536134",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=708845536134"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6058132668322",
+              "skuId": "6058132668322",
+              "sellerSpecVerbatim": "2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01iNJS3v1j9nnvvxC7S_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=708845536134&skuId=6058132668322"
+            },
+            {
+              "id": "tmall-sku-6058132668324",
+              "skuId": "6058132668324",
+              "sellerSpecVerbatim": "双瓶礼盒",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01aFncSY1j9nnvDk09Y_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=708845536134&skuId=6058132668324"
+            },
+            {
+              "id": "tmall-sku-6058132668321",
+              "skuId": "6058132668321",
+              "sellerSpecVerbatim": "6瓶整箱",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01jyrXg11j9nnwxKwlk_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=708845536134&skuId=6058132668321"
+            },
+            {
+              "id": "tmall-sku-6058132668323",
+              "skuId": "6058132668323",
+              "sellerSpecVerbatim": "1瓶",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01oBNuIS1j9nnv640os_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=708845536134&skuId=6058132668323"
+            }
+          ],
+          "sellerTitleVerbatim": "【青海名酒】天佑德青稞酒42度红四星清香型红四天纯粮酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 27,
+            "sales": 27
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青海名酒】天佑德青稞酒42度红四星清香型红四天纯粮酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 27,
+            "sales": 27
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01q3sMEk1j9naLlYJe5_!!2-item_pic.png"
+        },
+        {
+          "id": "tmall-557254502352",
+          "name": "【线下同款】天佑德青稞酒42度出口型750ml有机纯粮白酒整箱送礼",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/f2cee4c6081a9183fc69.webp",
+          "source": "https://detail.tmall.com/item.htm?id=557254502352",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=557254502352"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6238161598758",
+              "skuId": "6238161598758",
+              "sellerSpecVerbatim": "6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN013IItOG1j9npMFi4DZ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557254502352&skuId=6238161598758"
+            },
+            {
+              "id": "tmall-sku-6229164638524",
+              "skuId": "6229164638524",
+              "sellerSpecVerbatim": "2瓶 （1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01lEw9Al1j9np8wMK5Y_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557254502352&skuId=6229164638524"
+            },
+            {
+              "id": "tmall-sku-6229164638526",
+              "skuId": "6229164638526",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN017hhYTe1j9nnyS1IRk_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557254502352&skuId=6229164638526"
+            },
+            {
+              "id": "tmall-sku-6282145963715",
+              "skuId": "6282145963715",
+              "sellerSpecVerbatim": "42度藏香双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN013wDoYU1j9npLln031_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=557254502352&skuId=6282145963715"
+            }
+          ],
+          "sellerTitleVerbatim": "【线下同款】天佑德青稞酒42度出口型750ml有机纯粮白酒整箱送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:30:37.055Z",
+          "displayPositions": {
+            "sales": 28
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【线下同款】天佑德青稞酒42度出口型750ml有机纯粮白酒整箱送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "sales": 28
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01qInWsy1j9np0UjSnd_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-706589716758",
+          "name": "【青海文创】天佑德青稞酒 42度小黑125ml小瓶小酒清香型白酒礼盒",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/e18ff7f7c65e1e1d98cb.webp",
+          "source": "https://detail.tmall.com/item.htm?id=706589716758",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=706589716758"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "125ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6234067567135",
+              "skuId": "6234067567135",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01lJroyM1j9nUUWUxjc_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567135"
+            },
+            {
+              "id": "tmall-sku-6234067567137",
+              "skuId": "6234067567137",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4*6 整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01VayVqa1j9no8l2dKJ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567137"
+            },
+            {
+              "id": "tmall-sku-6234067567136",
+              "skuId": "6234067567136",
+              "sellerSpecVerbatim": "圣蓝之心125ml*4*2（两条有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01dFDWNk1j9no8LSjwp_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567136"
+            },
+            {
+              "id": "tmall-sku-6234067567139",
+              "skuId": "6234067567139",
+              "sellerSpecVerbatim": "普通版125ml*4*6  整箱",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Vj8sIc1j9no8Qgt4z_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567139"
+            },
+            {
+              "id": "tmall-sku-6234067567138",
+              "skuId": "6234067567138",
+              "sellerSpecVerbatim": "普通版125ml*4*2（两条有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01Jbc5Lx1j9no8Qfc5W_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567138"
+            },
+            {
+              "id": "tmall-sku-6234067567141",
+              "skuId": "6234067567141",
+              "sellerSpecVerbatim": "小聚装125ml*6*4 整箱",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01Wh3pEX1j9no8l7w4f_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567141"
+            },
+            {
+              "id": "tmall-sku-6234067567140",
+              "skuId": "6234067567140",
+              "sellerSpecVerbatim": "小聚装125ml*6",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01oDogev1j9no91K4bq_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567140"
+            },
+            {
+              "id": "tmall-sku-6234067567134",
+              "skuId": "6234067567134",
+              "sellerSpecVerbatim": "普通版125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01pLHb0H1j9no8hnLUo_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=706589716758&skuId=6234067567134"
+            }
+          ],
+          "sellerTitleVerbatim": "【青海文创】天佑德青稞酒 42度小黑125ml小瓶小酒清香型白酒礼盒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 8,
+            "sales": 29
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青海文创】天佑德青稞酒 42度小黑125ml小瓶小酒清香型白酒礼盒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 8,
+            "sales": 29
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01XrrIkj1j9no8kpRnW_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-576718444403",
+          "name": "【小瓶白酒】天佑德青稞酒42度小黑礼盒125ml小酒清香型白酒青海",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/fafc724f572f005724f2.webp",
+          "source": "https://detail.tmall.com/item.htm?id=576718444403",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=576718444403"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "125ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6223328159531",
+              "skuId": "6223328159531",
+              "sellerSpecVerbatim": "125ml*4(一条)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN019tY0so1j9nnvGZTTR_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159531"
+            },
+            {
+              "id": "tmall-sku-6223328159530",
+              "skuId": "6223328159530",
+              "sellerSpecVerbatim": "125ml*4*6（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01jgnvAu1j9nnuy6DfB_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159530"
+            },
+            {
+              "id": "tmall-sku-6223328159533",
+              "skuId": "6223328159533",
+              "sellerSpecVerbatim": "125ml*4文创版（一条）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN0142czgz1j9nnulKZ7C_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159533"
+            },
+            {
+              "id": "tmall-sku-6223328159532",
+              "skuId": "6223328159532",
+              "sellerSpecVerbatim": "125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN019tY0so1j9nnvGZTTR_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159532"
+            },
+            {
+              "id": "tmall-sku-6223328159535",
+              "skuId": "6223328159535",
+              "sellerSpecVerbatim": "125ml*4*6文创版（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01fwH4J61j9nnvGcd2S_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159535"
+            },
+            {
+              "id": "tmall-sku-6223328159534",
+              "skuId": "6223328159534",
+              "sellerSpecVerbatim": "125ml*4*2文创版（两条有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01l1iHFs1j9nnv2kUcm_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159534"
+            },
+            {
+              "id": "tmall-sku-6223328159536",
+              "skuId": "6223328159536",
+              "sellerSpecVerbatim": "125ml*6小聚版（一条）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01kEuBHr1j9nnvHgmQw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159536"
+            },
+            {
+              "id": "tmall-sku-6223328159537",
+              "skuId": "6223328159537",
+              "sellerSpecVerbatim": "125ml*6*4小聚版（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01Kvzttb1j9nnvAQcIw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=576718444403&skuId=6223328159537"
+            }
+          ],
+          "sellerTitleVerbatim": "【小瓶白酒】天佑德青稞酒42度小黑礼盒125ml小酒清香型白酒青海",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 20,
+            "sales": 30
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【小瓶白酒】天佑德青稞酒42度小黑礼盒125ml小酒清香型白酒青海",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 20,
+            "sales": 30
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN013naUd31j9nnuNjrpG_!!4611686018427387322-0-item_pic.jpg"
+        }
+      ],
+      "featuredProducts": [
+        {
+          "id": "jd-10200569275642",
+          "name": "天佑德国之德翡翠版",
+          "displayName": "国之德·翡翠",
+          "series": "国之德翡翠",
+          "source": "https://item.jd.com/10200569275642.html",
+          "purchaseLinks": {
+            "jdbuy": "https://item.jd.com/10200569275642.html"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml"
+          },
+          "image": "assets/commerce-v25/jd-jade.webp",
+          "brand": "天佑德",
+          "brandId": "70",
+          "platform": "jd",
+          "text": "“新”意之作，带给重要的人。天佑德国之德·翡翠。",
+          "verifiedAt": "2026-10-06",
+          "sellerTitleVerbatim": "天佑德国之德翡翠版500ml/瓶整箱装",
+          "sourceRole": "京东店招热区与首页同名翡翠海报",
+          "availability": "homepage-promotion-not-stock-checked"
+        },
+        {
+          "id": "tmall-720091268901",
+          "name": "【有机白酒】天佑德青稞酒42度国之德真年份6年500ml礼盒送礼",
+          "displayName": "国之德真年份",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "国之德真年份",
+          "image": "assets/commerce-v25/e4a72e410ddeca75aaf9.webp",
+          "source": "https://detail.tmall.com/item.htm?id=720091268901",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=720091268901"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "500ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6229480407308",
+              "skuId": "6229480407308",
+              "sellerSpecVerbatim": "500ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN014MKwvs1j9no53Qp4K_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=720091268901&skuId=6229480407308"
+            },
+            {
+              "id": "tmall-sku-6229480407306",
+              "skuId": "6229480407306",
+              "sellerSpecVerbatim": "500ml*2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01M5YfhO1j9nocnHgQw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=720091268901&skuId=6229480407306"
+            },
+            {
+              "id": "tmall-sku-6229480407307",
+              "skuId": "6229480407307",
+              "sellerSpecVerbatim": "500ml*6瓶（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01F1OkBF1j9nocbBU1a_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=720091268901&skuId=6229480407307"
+            }
+          ],
+          "sellerTitleVerbatim": "【有机白酒】天佑德青稞酒42度国之德真年份6年500ml礼盒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 4
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【有机白酒】天佑德青稞酒42度国之德真年份6年500ml礼盒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 4
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01rOB91H1j9nooJVNpb_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-702826410668",
+          "name": "【青藏文创】天佑德青稞酒 52度小黑大美青海 纯粮白酒清香型特产",
+          "displayName": "小黑系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "小黑系列",
+          "image": "assets/commerce-v25/d482ac7f55c2e33954e1.webp",
+          "source": "https://detail.tmall.com/item.htm?id=702826410668",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=702826410668"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6234048187824",
+              "skuId": "6234048187824",
+              "sellerSpecVerbatim": "125ml*4*6整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01mvH5xR1j9no8ll8e1_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187824"
+            },
+            {
+              "id": "tmall-sku-6234048187826",
+              "skuId": "6234048187826",
+              "sellerSpecVerbatim": "125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01g6LC2R1j9no95p2ew_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187826"
+            },
+            {
+              "id": "tmall-sku-6234048187833",
+              "skuId": "6234048187833",
+              "sellerSpecVerbatim": "丝绸之路125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01BoB9rp1j9no8iTzet_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187833"
+            },
+            {
+              "id": "tmall-sku-6234048187825",
+              "skuId": "6234048187825",
+              "sellerSpecVerbatim": "125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01hC8h1E1j9no8fB9NF_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187825"
+            },
+            {
+              "id": "tmall-sku-6234048187830",
+              "skuId": "6234048187830",
+              "sellerSpecVerbatim": "大美青海125ml*4*6整箱",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01aJdZuA1j9no8O0GIm_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187830"
+            },
+            {
+              "id": "tmall-sku-6234048187831",
+              "skuId": "6234048187831",
+              "sellerSpecVerbatim": "大美青海125ml*4",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN016pZx6M1j9no3nosZA_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187831"
+            },
+            {
+              "id": "tmall-sku-6234048187828",
+              "skuId": "6234048187828",
+              "sellerSpecVerbatim": "大美青海125ml*4*2(两条有礼袋)",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01v3Z8Uk1j9no8UBm4c_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=702826410668&skuId=6234048187828"
+            }
+          ],
+          "sellerTitleVerbatim": "【青藏文创】天佑德青稞酒 52度小黑大美青海 纯粮白酒清香型特产",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 7
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "【青藏文创】天佑德青稞酒 52度小黑大美青海 纯粮白酒清香型特产",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 7
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01qorOcd1j9naRAgHKb_!!2-item_pic.png"
+        },
+        {
+          "id": "tmall-41423487645",
+          "name": "天佑德青稞酒52度海拔3000清香型白酒青海特产送礼",
+          "displayName": "海拔3000",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "海拔3000",
+          "image": "assets/commerce-v25/129018d625ff48df7275.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41423487645",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41423487645"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6238642698419",
+              "skuId": "6238642698419",
+              "sellerSpecVerbatim": "500ml*6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01I1Knj51j9noF7B4B0_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41423487645&skuId=6238642698419"
+            },
+            {
+              "id": "tmall-sku-6105804873392",
+              "skuId": "6105804873392",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01ljiFGY1j9nntqnfZv_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41423487645&skuId=6105804873392"
+            },
+            {
+              "id": "tmall-sku-6238642698418",
+              "skuId": "6238642698418",
+              "sellerSpecVerbatim": "500ml*2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN017Gd4xH1j9noEkxWRJ_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41423487645&skuId=6238642698418"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒52度海拔3000清香型白酒青海特产送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 10
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒52度海拔3000清香型白酒青海特产送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 10
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01m00Awu1j9nnuFJygn_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-41640177703",
+          "name": "天佑德青稞酒 有机出口型金标45度750ml 纯粮白酒一斤半装 礼盒",
+          "displayName": "出口型系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "出口型系列",
+          "image": "assets/commerce-v25/431108315172349eeb7c.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41640177703",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41640177703"
+          },
+          "specs": {
+            "酒精度": "45度",
+            "净含量": "750ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6270331606399",
+              "skuId": "6270331606399",
+              "sellerSpecVerbatim": "2瓶送老字号（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN015Nj1q0x0BmG1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6270331606399"
+            },
+            {
+              "id": "tmall-sku-6058148740521",
+              "skuId": "6058148740521",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01v7n92a1j9nnvRCHBR_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6058148740521"
+            },
+            {
+              "id": "tmall-sku-6058148740520",
+              "skuId": "6058148740520",
+              "sellerSpecVerbatim": "双支礼盒",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN013p6ppD1j9nnvRIBN3_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6058148740520"
+            },
+            {
+              "id": "tmall-sku-6058148740518",
+              "skuId": "6058148740518",
+              "sellerSpecVerbatim": "6瓶整箱送赤霞珠（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01kLJWBAgS23E1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6058148740518"
+            },
+            {
+              "id": "tmall-sku-6058148740519",
+              "skuId": "6058148740519",
+              "sellerSpecVerbatim": "2瓶送金粉黛（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01dfqJzv3V6xI1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6058148740519"
+            },
+            {
+              "id": "tmall-sku-6270331606398",
+              "skuId": "6270331606398",
+              "sellerSpecVerbatim": "6瓶整箱送昆仑山（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01EErSIPUUpyE1chua_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41640177703&skuId=6270331606398"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒 有机出口型金标45度750ml 纯粮白酒一斤半装 礼盒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 11
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒 有机出口型金标45度750ml 纯粮白酒一斤半装 礼盒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 11
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01Ak0pyMzlZvL1chua_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-965033931414",
+          "name": "天佑德互助八大作坊4A青稞酒46度500ml清香型白酒特产送礼",
+          "displayName": "八大作坊",
+          "brand": "八大作坊",
+          "brandId": "64",
+          "series": "八大作坊",
+          "image": "assets/commerce-v25/99d20e050d20cced8169.webp",
+          "source": "https://detail.tmall.com/item.htm?id=965033931414",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=965033931414"
+          },
+          "specs": {
+            "酒精度": "46度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6063802384969",
+              "skuId": "6063802384969",
+              "sellerSpecVerbatim": "500ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01CdYmX41j9nnv7BNKI_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=965033931414&skuId=6063802384969"
+            },
+            {
+              "id": "tmall-sku-6063802384967",
+              "skuId": "6063802384967",
+              "sellerSpecVerbatim": "500ml*2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01CQfAfl1j9nnos3LJa_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=965033931414&skuId=6063802384967"
+            },
+            {
+              "id": "tmall-sku-6063802384968",
+              "skuId": "6063802384968",
+              "sellerSpecVerbatim": "500ml*6瓶（整箱）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01vEC1IB1j9nnuBBtyr_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=965033931414&skuId=6063802384968"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德互助八大作坊4A青稞酒46度500ml清香型白酒特产送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 14
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德互助八大作坊4A青稞酒46度500ml清香型白酒特产送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 14
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01ydzuo71j9nntu0uyI_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-41466749439",
+          "name": "[星品升级]天佑德海拔3600青稞酒500ml 52度纯粮食白酒送礼",
+          "displayName": "海拔3600",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "海拔3600",
+          "image": "assets/commerce-v25/b38971c34115439a7873.webp",
+          "source": "https://detail.tmall.com/item.htm?id=41466749439",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=41466749439"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6273040183640",
+              "skuId": "6273040183640",
+              "sellerSpecVerbatim": "6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01g5QIjD1j9no3NcHku_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41466749439&skuId=6273040183640"
+            },
+            {
+              "id": "tmall-sku-6273040183642",
+              "skuId": "6273040183642",
+              "sellerSpecVerbatim": "单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01PhPcqe1j9no38uReo_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41466749439&skuId=6273040183642"
+            },
+            {
+              "id": "tmall-sku-6273040183641",
+              "skuId": "6273040183641",
+              "sellerSpecVerbatim": "2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01QIuWBh1j9no2w2j09_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=41466749439&skuId=6273040183641"
+            }
+          ],
+          "sellerTitleVerbatim": "[星品升级]天佑德海拔3600青稞酒500ml 52度纯粮食白酒送礼",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 16
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "[星品升级]天佑德海拔3600青稞酒500ml 52度纯粮食白酒送礼",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 16
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN014l1JLL1j9nmH5BY4s_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-761464550422",
+          "name": "世义德青稞酒酒坊52度5L约10斤清香纯粮白酒玻璃桶装散酒礼盒泡酒",
+          "displayName": "世义德酒坊",
+          "brand": "世义德",
+          "brandId": "73",
+          "series": "世义德酒坊",
+          "image": "assets/commerce-v25/192c3fb8de741914729a.webp",
+          "source": "https://detail.tmall.com/item.htm?id=761464550422",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=761464550422"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "5L"
+          },
+          "skuOptions": [],
+          "sellerTitleVerbatim": "世义德青稞酒酒坊52度5L约10斤清香纯粮白酒玻璃桶装散酒礼盒泡酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 22
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "世义德青稞酒酒坊52度5L约10斤清香纯粮白酒玻璃桶装散酒礼盒泡酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 22
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01mVySJP1j9nnhWxXfa_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-594887681150",
+          "name": "天佑德青稞酒红五星52度500ml 青海互助 清香型白酒礼盒装 送礼酒",
+          "displayName": "星级系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "星级系列",
+          "image": "assets/commerce-v25/94273fdaa3732087d7ce.webp",
+          "source": "https://detail.tmall.com/item.htm?id=594887681150",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=594887681150"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6229180778525",
+              "skuId": "6229180778525",
+              "sellerSpecVerbatim": "500ml",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01MpJK521j9nQC41Qsw_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=594887681150&skuId=6229180778525"
+            },
+            {
+              "id": "tmall-sku-6229180778524",
+              "skuId": "6229180778524",
+              "sellerSpecVerbatim": "500ml*6瓶 整箱",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01c8dcBR1j9naGO0onF_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=594887681150&skuId=6229180778524"
+            },
+            {
+              "id": "tmall-sku-6229180778523",
+              "skuId": "6229180778523",
+              "sellerSpecVerbatim": "500ml*2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i2/2155224506/O1CN01DD2Uzd1j9naHTz74d_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=594887681150&skuId=6229180778523"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒红五星52度500ml 青海互助 清香型白酒礼盒装 送礼酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 25
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒红五星52度500ml 青海互助 清香型白酒礼盒装 送礼酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 25
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01j2FnZd1j9no3lb4Tg_!!4611686018427387322-2-item_pic.png"
+        },
+        {
+          "id": "tmall-577061655034",
+          "name": "天佑德青稞酒 岩窖30 42度500ml清香型白酒纯粮青海特产送礼小酌",
+          "displayName": "岩窖系列",
+          "brand": "天佑德",
+          "brandId": "70",
+          "series": "岩窖系列",
+          "image": "assets/commerce-v25/50f00c537b36203eb130.webp",
+          "source": "https://detail.tmall.com/item.htm?id=577061655034",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=577061655034"
+          },
+          "specs": {
+            "酒精度": "42度",
+            "净含量": "500ml",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6230093799251",
+              "skuId": "6230093799251",
+              "sellerSpecVerbatim": "500ml",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN015uqBLO1j9nnuGwoUk_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=577061655034&skuId=6230093799251"
+            },
+            {
+              "id": "tmall-sku-6230093799252",
+              "skuId": "6230093799252",
+              "sellerSpecVerbatim": "500ml*4瓶 整箱",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN01BkyEDn1j9nntLFoMj_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=577061655034&skuId=6230093799252"
+            },
+            {
+              "id": "tmall-sku-6230093799250",
+              "skuId": "6230093799250",
+              "sellerSpecVerbatim": "500ml*2瓶（有礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01fPFqiA1j9nntonBtK_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=577061655034&skuId=6230093799250"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德青稞酒 岩窖30 42度500ml清香型白酒纯粮青海特产送礼小酌",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 28
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德青稞酒 岩窖30 42度500ml清香型白酒纯粮青海特产送礼小酌",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 28
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01Jrq4Z01j9nnttkwvn_!!4611686018427387322-2-item_pic.png"
+        }
+      ],
+      "featuredIds": [
+        "tmall-927599243132",
+        "jd-10200569275642",
+        "tmall-557312259822",
+        "tmall-616005343767"
+      ],
+      "series": [
+        {
+          "name": "海拔2600pro",
+          "source": "https://mall.jd.com/view_search-717766-40590643-99-1-24-1.html",
+          "externalOnly": true
+        },
+        {
+          "name": "海拔2600",
+          "source": "https://mall.jd.com/view_search-717766-40590644-99-1-24-1.html",
+          "externalOnly": false
+        },
+        {
+          "name": "海拔3600",
+          "source": "https://mall.jd.com/view_search-717766-40590641-99-1-24-1.html",
+          "externalOnly": false
+        },
+        {
+          "name": "海拔3000",
+          "source": "https://mall.jd.com/view_search-717766-40590642-99-1-24-1.html",
+          "externalOnly": false
+        },
+        {
+          "name": "海拔昆仑山",
+          "source": "https://mall.jd.com/view_search-717766-40590646-99-1-24-1.html",
+          "externalOnly": true
+        },
+        {
+          "name": "海拔祁连山",
+          "source": "https://mall.jd.com/view_search-717766-40590647-99-1-24-1.html",
+          "externalOnly": true
+        },
+        {
+          "name": "海拔唐古拉山",
+          "source": "https://mall.jd.com/view_search-717766-40590648-99-1-24-1.html",
+          "externalOnly": true
+        },
+        {
+          "name": "国之德G6",
+          "source": "https://mall.jd.com/view_search-717766-40590627-99-1-24-1.html",
+          "externalOnly": false
+        },
+        {
+          "name": "T5D",
+          "source": "https://mall.jd.com/view_search-717766-40590662-99-1-24-1.html",
+          "externalOnly": true
+        },
+        {
+          "name": "小黑系列",
+          "source": "https://mall.jd.com/view_search-717766-40590649-99-1-24-1.html",
+          "externalOnly": false
+        },
+        {
+          "name": "流沙雪莉",
+          "source": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "externalOnly": false
+        },
+        {
+          "name": "出口型系列",
+          "source": "https://mall.jd.com/view_search-717766-40590629-99-1-24-1.html",
+          "externalOnly": false
+        }
+      ],
+      "source": "https://tianyoude.tmall.com/shop/view_shop.htm",
+      "orderLabel": "天猫官方旗舰店 · 销量排序 · 2026年10月6日首屏商品",
+      "featuredSource": "https://mall.jd.com/index-714336.html?from=pc",
+      "featuredOrderLabel": "旗舰店主推主题与当前产品系列",
+      "captureScope": {
+        "reportedTotal": 129,
+        "salesPageItems": 30,
+        "defaultPageItems": 30,
+        "fullCatalogueCaptured": false,
+        "numericPriceVerified": false
+      },
+      "date": "2026-10-06",
+      "featuredSelectionBasis": "京东店招雪莉/翡翠主题原顺序；雪莉展示独立天猫当前商品，不宣称与京东SKU相同。海拔2600/G6为当前店铺系列。"
+    },
+    "alajabao": {
+      "products": [
+        {
+          "id": "tmall-1027066846246",
+          "name": "天佑德阿拉嘉宝青稞酒圣湖4718清香型白酒52度500mL西藏特产酒",
+          "displayName": "圣湖系列",
+          "brand": "阿拉嘉宝",
+          "brandId": "83",
+          "series": "圣湖系列",
+          "image": "assets/commerce-v25/f88d83de7120c54021a0.webp",
+          "source": "https://detail.tmall.com/item.htm?id=1027066846246",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=1027066846246"
+          },
+          "specs": {
+            "酒精度": "52度",
+            "净含量": "500mL",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6282464327200",
+              "skuId": "6282464327200",
+              "sellerSpecVerbatim": "500ml*6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01JWVSkl1j9npMITToO_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1027066846246&skuId=6282464327200"
+            },
+            {
+              "id": "tmall-sku-6282464327201",
+              "skuId": "6282464327201",
+              "sellerSpecVerbatim": "500ml*2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i1/2155224506/O1CN014VHarx1j9npM3XlE8_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1027066846246&skuId=6282464327201"
+            },
+            {
+              "id": "tmall-sku-6222771018396",
+              "skuId": "6222771018396",
+              "sellerSpecVerbatim": "500ml单瓶",
+              "image": "https://img.alicdn.com/imgextra/i3/2155224506/O1CN01lmND3H1j9nnpqVrJb_!!2155224506.jpg",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1027066846246&skuId=6222771018396"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德阿拉嘉宝青稞酒圣湖4718清香型白酒52度500mL西藏特产酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 23
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德阿拉嘉宝青稞酒圣湖4718清香型白酒52度500mL西藏特产酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 23
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01SVgL0J1j9npFesMAG_!!4611686018427387322-0-item_pic.jpg"
+        },
+        {
+          "id": "tmall-1041856565619",
+          "name": "天佑德阿拉嘉宝巅峰7111清香型白酒西藏特产纪念53度500mL青稞酒",
+          "displayName": "巅峰系列",
+          "brand": "阿拉嘉宝",
+          "brandId": "83",
+          "series": "巅峰系列",
+          "image": "assets/commerce-v25/1ca2a9721d7a3e5ba46f.webp",
+          "source": "https://detail.tmall.com/item.htm?id=1041856565619",
+          "sourceLabel": "官方旗舰店商品",
+          "purchaseLinks": {
+            "tmbuy": "https://detail.tmall.com/item.htm?id=1041856565619"
+          },
+          "specs": {
+            "酒精度": "53度",
+            "净含量": "500mL",
+            "香型": "清香型"
+          },
+          "skuOptions": [
+            {
+              "id": "tmall-sku-6078319120585",
+              "skuId": "6078319120585",
+              "sellerSpecVerbatim": "500ml*2瓶（1个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN013TJqmh1j9nnhmYNUB_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1041856565619&skuId=6078319120585"
+            },
+            {
+              "id": "tmall-sku-6078319120586",
+              "skuId": "6078319120586",
+              "sellerSpecVerbatim": "500ml 单瓶",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01ZXxjqC1j9nni5ScNT_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1041856565619&skuId=6078319120586"
+            },
+            {
+              "id": "tmall-sku-6078317248981",
+              "skuId": "6078317248981",
+              "sellerSpecVerbatim": "500ml*6瓶整箱（3个礼袋）",
+              "image": "https://img.alicdn.com/imgextra/i4/2155224506/O1CN01woQeXB1j9nni5rnDk_!!2155224506.png",
+              "purchaseUrl": "https://detail.tmall.com/item.htm?id=1041856565619&skuId=6078317248981"
+            }
+          ],
+          "sellerTitleVerbatim": "天佑德阿拉嘉宝巅峰7111清香型白酒西藏特产纪念53度500mL青稞酒",
+          "sellerStoreUrl": "https://tianyoude.tmall.com/shop/view_shop.htm",
+          "platform": "tmall",
+          "verifiedAt": "2026-10-06",
+          "capturedAt": "2026-10-06T01:35:16.270Z",
+          "displayPositions": {
+            "default": 30
+          },
+          "availability": "not-stock-checked",
+          "priceVerified": false,
+          "text": "天佑德阿拉嘉宝巅峰7111清香型白酒西藏特产纪念53度500mL青稞酒",
+          "contentStatus": "official-current-store-card",
+          "sourceRole": "当前可见官方店铺商品；规格以店铺选项为准",
+          "sourceOrderPosition": {
+            "default": 30
+          },
+          "imageSource": "https://gw.alicdn.com/imgextra/O1CN01zASPn51j9npH6vN3s_!!4611686018427387322-0-item_pic.jpg"
+        }
+      ],
+      "featuredIds": [
+        "tmall-1027066846246",
+        "tmall-1041856565619"
+      ],
+      "featuredProducts": [],
+      "series": [
+        {
+          "name": "圣湖系列",
+          "source": "https://detail.tmall.com/item.htm?id=1027066846246"
+        },
+        {
+          "name": "巅峰系列",
+          "source": "https://detail.tmall.com/item.htm?id=1041856565619"
+        }
+      ],
+      "source": "https://tianyoude.tmall.com/shop/view_shop.htm",
+      "orderLabel": "官方旗舰店综合陈列 · 阿拉嘉宝商品原顺序",
+      "featuredOrderLabel": "阿拉嘉宝 · 当前店铺产品",
+      "date": "2026-10-06"
+    }
+  },
+  "scope": "真实店铺销量/综合首30各自排序，主推用京东店招；价格编码未取得，不猜数字，不称129全量或库存保证"
+}
