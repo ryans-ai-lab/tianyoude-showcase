@@ -2,7 +2,7 @@
   "title": "青海文学馆",
   "subtitle": "室内展陈 · 3D 空间查看",
   "coordinateSystem": "gltf-y-up",
-  "modelUrl": "models/museum.glb?v=20261006-v3r2-0bdad37f",
+  "modelUrl": "models/museum.glb?v=20261006-v3r3-d1b5bf74",
   "overview": {
     "position": [
       28.5,
@@ -510,5 +510,7 @@
       ]
     ]
   ],
-  "revision": 2
+  "revision": 3,
+  "areaLightsUrl": "models/area-lights.json?v=d9227591",
+  "visitorRouteUrl": "models/visitor-route.json?v=05225e8c"
 }

@@ -1,0 +1,2162 @@
+{
+  "schemaVersion": 1,
+  "source": "Existing native Blender AREA light objects; no added light",
+  "sourceNativeFile": "青海文学馆.blend",
+  "sourceNativeSHA256": "9b297ea125b83c98c3c81eb81c0a9247d26e7228b6eeae998ccd114afcaecde2",
+  "coordinateSystem": "glTF Y up, metres",
+  "conversion": {
+    "position": "(x, y, z) Blender -> (x, z, -y) glTF",
+    "quaternion": "RotX(-pi/2) left-multiplied by native world quaternion; output [x,y,z,w]",
+    "emissionDirection": "Light local -Z preserved by the basis conversion",
+    "widthHeight": "Native size / size_y, multiplied by positive native world X / Y scale",
+    "circularArea": "pi * width * height / 4 for DISK and ELLIPSE",
+    "rectangularArea": "width * height for RECTANGLE and SQUARE",
+    "lumensPerWatt": 683.0,
+    "threeRadiance": "683 * native energy watts / (pi * area square metres)",
+    "color": "Native Blender light data RGB floats preserved as linear RGB",
+    "threeUsage": "Use ShapedAreaLight; isCircular for DISK/ELLIPSE; intensity=radiance; setRGB with LinearSRGBColorSpace"
+  },
+  "areaLightCount": 23,
+  "sourceGroupCounts": {
+    "REAL_LIGHTING": 22,
+    "original-native-auxiliary": 1
+  },
+  "lights": [
+    {
+      "name": "RL_AB_Left_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 2.6600000858306885,
+      "height": 1.377500057220459,
+      "powerW": 240.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        8.050000190734863,
+        3.9670000076293945,
+        -6.449999809265137
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 3.664150270438199,
+      "radiance": 14239.960889215121,
+      "intensity": 14239.960889215121,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        8.050000190734863,
+        0.0,
+        -6.449999809265137
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 240.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_AB_Left_SoftCeiling",
+        "nativeSize": 2.6600000858306885,
+        "nativeSizeY": 1.377500057220459,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          8.050000190734863,
+          6.449999809265137,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_AB_Right_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 2.6600000858306885,
+      "height": 1.377500057220459,
+      "powerW": 240.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        11.600000381469727,
+        3.9670000076293945,
+        -6.449999809265137
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 3.664150270438199,
+      "radiance": 14239.960889215121,
+      "intensity": 14239.960889215121,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        11.600000381469727,
+        0.0,
+        -6.449999809265137
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 240.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_AB_Right_SoftCeiling",
+        "nativeSize": 2.6600000858306885,
+        "nativeSizeY": 1.377500057220459,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          11.600000381469727,
+          6.449999809265137,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_C_Centre_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 2.375,
+      "height": 1.2350000143051147,
+      "powerW": 215.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -5.849999904632568,
+        3.9670000076293945,
+        -6.099999904632568
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 2.9331250339746475,
+      "radiance": 15935.977735432181,
+      "intensity": 15935.977735432181,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -5.849999904632568,
+        0.0,
+        -6.099999904632568
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 215.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_C_Centre_SoftCeiling",
+        "nativeSize": 2.375,
+        "nativeSizeY": 1.2350000143051147,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -5.849999904632568,
+          6.099999904632568,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Cafe_BackShelfWash",
+      "shape": "RECTANGLE",
+      "width": 4.800000190734863,
+      "height": 0.44999998807907104,
+      "powerW": 65.0,
+      "linearRGB": [
+        1.0,
+        0.9399999976158142,
+        0.8399999737739563
+      ],
+      "position": [
+        6.5,
+        3.119999885559082,
+        6.920000076293945
+      ],
+      "quaternion": [
+        -6.773130678539019e-08,
+        -0.8453871011734009,
+        -0.5341541767120361,
+        4.6509974538366805e-08
+      ],
+      "isCircular": false,
+      "areaM2": 2.160000028610227,
+      "radiance": 6542.299634237365,
+      "intensity": 6542.299634237365,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        6.279947228904348e-09,
+        -0.9031341075897217,
+        0.42935866117477417
+      ],
+      "floorRayIntersection": [
+        6.5,
+        0.0,
+        8.403278350830078
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 65.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Cafe_BackShelfWash",
+        "nativeSize": 4.800000190734863,
+        "nativeSizeY": 0.44999998807907104,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          6.5,
+          -6.920000076293945,
+          3.119999885559082
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          8.078078650441967e-08,
+          -1.5005749531837864e-08,
+          -0.22007493674755096,
+          -0.9754830002784729
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Cafe_CanopyStrip_2.5",
+      "shape": "RECTANGLE",
+      "width": 5.5,
+      "height": 0.11999999731779099,
+      "powerW": 75.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        6.5,
+        2.75,
+        7.5
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.6599999852478504,
+      "radiance": 24705.1883094232,
+      "intensity": 24705.1883094232,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        6.5,
+        0.0,
+        7.5
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 75.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Cafe_CanopyStrip_2.5",
+        "nativeSize": 5.5,
+        "nativeSizeY": 0.11999999731779099,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          6.5,
+          -7.5,
+          2.75
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Cafe_CanopyStrip_4.8",
+      "shape": "RECTANGLE",
+      "width": 5.5,
+      "height": 0.11999999731779099,
+      "powerW": 75.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        6.5,
+        2.75,
+        5.199999809265137
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.6599999852478504,
+      "radiance": 24705.1883094232,
+      "intensity": 24705.1883094232,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        6.5,
+        0.0,
+        5.199999809265137
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 75.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Cafe_CanopyStrip_4.8",
+        "nativeSize": 5.5,
+        "nativeSizeY": 0.11999999731779099,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          6.5,
+          -5.199999809265137,
+          2.75
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Cafe_Main_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 2.944999933242798,
+      "height": 1.5199999809265137,
+      "powerW": 300.0,
+      "linearRGB": [
+        1.0,
+        0.9399999976158142,
+        0.8399999737739563
+      ],
+      "position": [
+        9.199999809265137,
+        3.9670000076293945,
+        1.7000000476837158
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 4.476399842357637,
+      "radiance": 14570.122861211534,
+      "intensity": 14570.122861211534,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        9.199999809265137,
+        0.0,
+        1.7000000476837158
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 300.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Cafe_Main_SoftCeiling",
+        "nativeSize": 2.944999933242798,
+        "nativeSizeY": 1.5199999809265137,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          9.199999809265137,
+          -1.7000000476837158,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_D_BackCeiling_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 2.8499999046325684,
+      "height": 0.7599999904632568,
+      "powerW": 95.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -13.850000381469727,
+        3.9670000076293945,
+        -9.0
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 2.165999900341035,
+      "radiance": 9535.336064319936,
+      "intensity": 9535.336064319936,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -13.850000381469727,
+        0.0,
+        -9.0
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 95.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_D_BackCeiling_SoftCeiling",
+        "nativeSize": 2.8499999046325684,
+        "nativeSizeY": 0.7599999904632568,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -13.850000381469727,
+          9.0,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_D_Halo",
+      "shape": "DISK",
+      "width": 1.649999976158142,
+      "height": 1.649999976158142,
+      "powerW": 135.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -13.850000381469727,
+        3.609999895095825,
+        -7.300000190734863
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": true,
+      "areaM2": 2.138246438055894,
+      "radiance": 13726.090002170842,
+      "intensity": 13726.090002170842,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -13.850000381469727,
+        0.0,
+        -7.300000190734863
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 135.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_D_Halo",
+        "nativeSize": 1.649999976158142,
+        "nativeSizeY": 1.649999976158142,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -13.850000381469727,
+          7.300000190734863,
+          3.609999895095825
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_E_Cross_17.5_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 1.899999976158142,
+      "height": 0.49399998784065247,
+      "powerW": 65.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -7.0,
+        3.9670000076293945,
+        -1.2000000476837158
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9385999651193622,
+      "radiance": 15055.79365255175,
+      "intensity": 15055.79365255175,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -7.0,
+        0.0,
+        -1.2000000476837158
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 65.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_E_Cross_17.5_SoftCeiling",
+        "nativeSize": 1.899999976158142,
+        "nativeSizeY": 0.49399998784065247,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -7.0,
+          1.2000000476837158,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_E_Cross_21.0_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 1.899999976158142,
+      "height": 0.49399998784065247,
+      "powerW": 65.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -3.5,
+        3.9670000076293945,
+        -1.2000000476837158
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9385999651193622,
+      "radiance": 15055.79365255175,
+      "intensity": 15055.79365255175,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -3.5,
+        0.0,
+        -1.2000000476837158
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 65.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_E_Cross_21.0_SoftCeiling",
+        "nativeSize": 1.899999976158142,
+        "nativeSizeY": 0.49399998784065247,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -3.5,
+          1.2000000476837158,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_E_Cross_25.0_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 1.899999976158142,
+      "height": 0.49399998784065247,
+      "powerW": 65.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        0.5,
+        3.9670000076293945,
+        -1.2000000476837158
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9385999651193622,
+      "radiance": 15055.79365255175,
+      "intensity": 15055.79365255175,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        0.5,
+        0.0,
+        -1.2000000476837158
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 65.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_E_Cross_25.0_SoftCeiling",
+        "nativeSize": 1.899999976158142,
+        "nativeSizeY": 0.49399998784065247,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          0.5,
+          1.2000000476837158,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_E_Library_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 0.949999988079071,
+      "height": 2.8499999046325684,
+      "powerW": 145.0,
+      "linearRGB": [
+        1.0,
+        0.9399999976158142,
+        0.8399999737739563
+      ],
+      "position": [
+        1.149999976158142,
+        3.9670000076293945,
+        3.799999952316284
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 2.7074998754262936,
+      "radiance": 11643.147194327503,
+      "intensity": 11643.147194327503,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        1.149999976158142,
+        0.0,
+        3.799999952316284
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 145.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_E_Library_SoftCeiling",
+        "nativeSize": 0.949999988079071,
+        "nativeSizeY": 2.8499999046325684,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          1.149999976158142,
+          -3.799999952316284,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Entry_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 0.7599999904632568,
+      "height": 1.3300000429153442,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        23.299999237060547,
+        3.9670000076293945,
+        -0.800000011920929
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 1.0108000199317928,
+      "radiance": 19357.447880776588,
+      "intensity": 19357.447880776588,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        23.299999237060547,
+        0.0,
+        -0.800000011920929
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Entry_SoftCeiling",
+        "nativeSize": 0.7599999904632568,
+        "nativeSizeY": 1.3300000429153442,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          23.299999237060547,
+          0.800000011920929,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Foyer_ProjectionBounce",
+      "shape": "RECTANGLE",
+      "width": 4.0,
+      "height": 1.2999999523162842,
+      "powerW": 80.0,
+      "linearRGB": [
+        0.3799999952316284,
+        0.6800000071525574,
+        1.0
+      ],
+      "position": [
+        18.5,
+        3.680000066757202,
+        -5.099999904632568
+      ],
+      "quaternion": [
+        -6.957485965131127e-08,
+        -0.8595095276832581,
+        -0.5111196637153625,
+        4.6464659675393705e-08
+      ],
+      "isCircular": false,
+      "areaM2": 5.199999809265137,
+      "radiance": 3344.7024651987863,
+      "intensity": 3344.7024651987863,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        8.751477764690208e-09,
+        -0.878624439239502,
+        0.4775133430957794
+      ],
+      "floorRayIntersection": [
+        18.5,
+        -2.384185791015625e-07,
+        -3.09999942779541
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 80.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Foyer_ProjectionBounce",
+        "nativeSize": 4.0,
+        "nativeSizeY": 1.2999999523162842,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          18.5,
+          5.099999904632568,
+          3.680000066757202
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          8.20523311517718e-08,
+          -1.6341378028528197e-08,
+          -0.24634882807731628,
+          -0.96918123960495
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Foyer_SoftOverhead",
+      "shape": "RECTANGLE",
+      "width": 4.199999809265137,
+      "height": 2.0,
+      "powerW": 105.0,
+      "linearRGB": [
+        0.7599999904632568,
+        0.8799999952316284,
+        1.0
+      ],
+      "position": [
+        18.5,
+        3.9600000381469727,
+        -2.700000047683716
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 8.399999618530273,
+      "radiance": 2717.570776707325,
+      "intensity": 2717.570776707325,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        18.5,
+        0.0,
+        -2.700000047683716
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 105.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Foyer_SoftOverhead",
+        "nativeSize": 4.199999809265137,
+        "nativeSizeY": 2.0,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          18.5,
+          2.700000047683716,
+          3.9600000381469727
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Left_Service_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 0.949999988079071,
+      "height": 0.949999988079071,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -14.100000381469727,
+        3.9670000076293945,
+        1.2999999523162842
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9024999773502351,
+      "radiance": 21680.342598085626,
+      "intensity": 21680.342598085626,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -14.100000381469727,
+        0.0,
+        1.2999999523162842
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Left_Service_SoftCeiling",
+        "nativeSize": 0.949999988079071,
+        "nativeSizeY": 0.949999988079071,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -14.100000381469727,
+          -1.2999999523162842,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Middle_Service_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 0.949999988079071,
+      "height": 0.949999988079071,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -5.599999904632568,
+        3.9670000076293945,
+        3.299999952316284
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9024999773502351,
+      "radiance": 21680.342598085626,
+      "intensity": 21680.342598085626,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        -5.599999904632568,
+        0.0,
+        3.299999952316284
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Middle_Service_SoftCeiling",
+        "nativeSize": 0.949999988079071,
+        "nativeSizeY": 0.949999988079071,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          -5.599999904632568,
+          -3.299999952316284,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Reception_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 3.325000047683716,
+      "height": 1.899999976158142,
+      "powerW": 330.0,
+      "linearRGB": [
+        1.0,
+        0.9399999976158142,
+        0.8399999737739563
+      ],
+      "position": [
+        2.5,
+        3.9670000076293945,
+        -7.099999904632568
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 6.317500011324881,
+      "radiance": 11356.369626965577,
+      "intensity": 11356.369626965577,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        2.5,
+        0.0,
+        -7.099999904632568
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 330.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Reception_SoftCeiling",
+        "nativeSize": 3.325000047683716,
+        "nativeSizeY": 1.899999976158142,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          2.5,
+          7.099999904632568,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Right_Stair_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 0.949999988079071,
+      "height": 0.949999988079071,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        18.0,
+        3.9670000076293945,
+        -8.100000381469727
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9024999773502351,
+      "radiance": 21680.342598085626,
+      "intensity": 21680.342598085626,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        18.0,
+        0.0,
+        -8.100000381469727
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Right_Stair_SoftCeiling",
+        "nativeSize": 0.949999988079071,
+        "nativeSizeY": 0.949999988079071,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          18.0,
+          8.100000381469727,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_Right_WC_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 1.3300000429153442,
+      "height": 0.949999988079071,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        19.5,
+        3.9670000076293945,
+        4.400000095367432
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 1.263500024914741,
+      "radiance": 15485.95830462127,
+      "intensity": 15485.95830462127,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        19.5,
+        0.0,
+        4.400000095367432
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_Right_WC_SoftCeiling",
+        "nativeSize": 1.3300000429153442,
+        "nativeSizeY": 0.949999988079071,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          19.5,
+          -4.400000095367432,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "RL_South_Corridor_SoftCeiling",
+      "shape": "RECTANGLE",
+      "width": 1.899999976158142,
+      "height": 0.4749999940395355,
+      "powerW": 90.0,
+      "linearRGB": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        18.5,
+        3.9670000076293945,
+        8.899999618530273
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 0.9024999773502351,
+      "radiance": 21680.342598085626,
+      "intensity": 21680.342598085626,
+      "sourceGroup": "REAL_LIGHTING",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        18.5,
+        0.0,
+        8.899999618530273
+      ],
+      "sourceprops": {
+        "object": {
+          "lighting_estimate": "PDF fixture style; position/power art-direction estimate",
+          "power_w_estimate": 90.0
+        },
+        "lightData": {},
+        "collections": [
+          "REAL_LIGHTING"
+        ],
+        "nativeDataName": "RL_South_Corridor_SoftCeiling",
+        "nativeSize": 1.899999976158142,
+        "nativeSizeY": 0.4749999940395355,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          18.5,
+          -8.899999618530273,
+          3.9670000076293945
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "Render large softbox",
+      "shape": "RECTANGLE",
+      "width": 35.0,
+      "height": 20.0,
+      "powerW": 4200.0,
+      "linearRGB": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "position": [
+        0.5,
+        18.0,
+        -0.0
+      ],
+      "quaternion": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "isCircular": false,
+      "areaM2": 700.0,
+      "radiance": 1304.4339135811742,
+      "intensity": 1304.4339135811742,
+      "sourceGroup": "original-native-auxiliary",
+      "visibleInNativeRender": true,
+      "direction": [
+        0.0,
+        -1.0000001192092896,
+        0.0
+      ],
+      "floorRayIntersection": [
+        0.5,
+        0.0,
+        0.0
+      ],
+      "sourceprops": {
+        "object": {},
+        "lightData": {},
+        "collections": [
+          "11_Render_Rig"
+        ],
+        "nativeDataName": "Area",
+        "nativeSize": 35.0,
+        "nativeSizeY": 20.0,
+        "nativeWorldScale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "nativeWorldPosition": [
+          0.5,
+          0.0,
+          18.0
+        ],
+        "nativeWorldQuaternionWXYZ": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSetInActiveViewLayer": false,
+        "collectionHideRender": false,
+        "useNodes": true,
+        "spreadRadians": 3.1415927410125732,
+        "normalize": true,
+        "exposureStops": 0.0,
+        "useShadow": true,
+        "nativeEmissionNodes": [
+          {
+            "name": "Emission",
+            "type": "EMISSION",
+            "inputs": {
+              "Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Strength": 1.0,
+              "Weight": 0.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
