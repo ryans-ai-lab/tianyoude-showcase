@@ -1,5 +1,5 @@
 {
-  "version": "20261006-v25",
+  "version": "20261006-v26",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -92,7 +92,7 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261006-v25",
+  "runtimeVersion": "20261006-v26",
   "modelAssetVersion": "20261001-v13",
   "runtimePresentation": "Coordinated safe 44.2s architectural camera loop and independent automatic rotation; original company-name holds, restrained existing nighttime fill; unchanged north-up geographic journey and source PBR materials.",
   "experienceV16": {
@@ -274,5 +274,39 @@
     "physicalMobileAcceptance": false,
     "indexSHA256": "4316424f62f1c514958eb12d46dbb3b7e0b0dc1feeec642b42096306d4e072e3",
     "priorCampusRuntimeCommit": "ab0072decd7994aab20e0e94e8eb77e5a7b58ba3"
+  },
+  "experienceV26": {
+    "sourceCommit": "6bef20ae7a8c3b3885d4c738b99a50324d646ae6",
+    "previousPublicCommit": "33bf82cadc33ece543e32e6428b2b2910872e6bb",
+    "camera": {
+      "singleOwner": "continuous unwrapped 360-degree orbit plus independent smooth dolly/crane/lens modulation",
+      "defaultRotation": true,
+      "defaultCinema": true,
+      "rotationCycleSecondsAtDefault": 47.61904761904762,
+      "filmCycleMs": 52000,
+      "independentSwitches": true,
+      "companyName": "Existing GLB signs framed during front pass while yaw continues",
+      "obstacles": "Actual world mesh boxes, continuous segments and near-plane clearance",
+      "manualTakeover": "pause both; explicit smooth rejoin"
+    },
+    "arrival": {
+      "startupGate": "first real geographic frame only, model requests and shader preparation run concurrently",
+      "travelMs": 3000,
+      "roadApproachMs": 500,
+      "roadReadableHoldMs": 350,
+      "exitMs": 280,
+      "lateImagery": "smooth decoded-tier ceiling; retain one actual geographic draw until actual complete named road frame is presented",
+      "modelWait": "at factory map; handoff waits for actual model arrival draw"
+    },
+    "phone": {
+      "primaryNavigation": "three fixed top tabs with 44px targets",
+      "content": "dedicated phone catalog/detail/story layouts; sources and extra series expandable",
+      "background": "white; ornamental brand-photo banners removed; factual content images retained"
+    },
+    "newPublicMediaBytes": 0,
+    "editorialAndCommerce": "V25 data bytes unchanged; not a new all-site crawl",
+    "geometryAndDownloadsUnchanged": true,
+    "physicalMobileAcceptance": false,
+    "indexSHA256": "d52527cdf7ff65d71aef92bdfb5fbf9b4763efeaa26e503b69b3f8f00f782464"
   }
 }

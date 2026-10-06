@@ -1,0 +1,15 @@
+{
+  "runtimeVersion": "20261006-v26",
+  "sourceCommit": "6bef20ae7a8c3b3885d4c738b99a50324d646ae6",
+  "previousPublicationCommit": "33bf82cadc33ece543e32e6428b2b2910872e6bb",
+  "priorCampusRuntimeCommit": "06b3e694f8440dd7c643f09e33aa408da0e0522e",
+  "indexSHA256": "d52527cdf7ff65d71aef92bdfb5fbf9b4763efeaa26e503b69b3f8f00f782464",
+  "scope": "continuous 360 camera + independent film modulation; map overlaps model loading with late detail protection; dedicated white phone editorial layouts",
+  "modelAssetVersion": "20261001-v13",
+  "downloadVersion": "20261001-v13",
+  "editorialDataVersion": "v25",
+  "newPublicMediaBytes": 0,
+  "retiredFiles": [],
+  "protectedRemoteBlobs": 45,
+  "physicalDeviceAcceptance": false
+}
