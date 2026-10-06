@@ -1,0 +1,11 @@
+{
+  "runtimeVersion": "20261006-v24",
+  "sourceCommit": "d1971a4260454c6bbba93e18c57bd3a12a67052b",
+  "previousPublicationCommit": "b95090cb54bdf8e2e27bb8cd1d5b9f0d8e7b8367",
+  "indexSHA256": "738e395d939d7a13cfa7325ab5af04267ad060df77ab72f240ed1aac197e1048",
+  "modelAssetVersion": "20261001-v13",
+  "downloadVersion": "20261001-v13",
+  "change": "Resolve blank geographic preparation, sparse blur sampling and native imagery scale reveal; preserve clear road labels; restore independent default orbit and continuous camera modulation; original brand imagery, system UI type, compact primary controls.",
+  "dataFreshness": "Existing V20 bounded official snapshots and V21 verified wording retained; original imagery/source dates unchanged; this iteration does not claim a whole-site official-content re-crawl.",
+  "preparedAtUTC": "2026-10-06T00:21:29.299230+00:00"
+}

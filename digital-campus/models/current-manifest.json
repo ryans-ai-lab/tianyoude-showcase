@@ -1,5 +1,5 @@
 {
-  "version": "20261005-v23",
+  "version": "20261006-v24",
   "runtime": [
     {
       "file": "tianyoude-headquarters-campus-mobile-v13.glb",
@@ -64,7 +64,7 @@
       "url": "https://github.com/ryans-ai-lab/tianyoude-showcase/releases/download/digital-campus-v13-20261001/alajabao-storage.glb"
     }
   ],
-  "legacyFiles": "V13/V9 GLBs retain original bytes. Historical script retirements have complete Git history and independent original-byte rollback copies. V23 retires only the obsolete V20 eight-file CSS/JavaScript family; V22 and V22.1 cached bundle families, shared MapLibre and root media remain available.",
+  "legacyFiles": "8 unused V17 JavaScript/CSS family files may be retired only after independent originals and SHA-verified recovery copies. Complete previous V23 public Git tree b95090c remains; V23/V22.1 cached runtime families, shared MapLibre, root media, GLBs and decoders remain.",
   "validation": "V13 campus meshes, hierarchy, world transforms, evidence metadata and logo texture bytes validated before and after Draco decoding. Runtime campus GLBs and decoded counterparts: zero errors and warnings. Original detailed portable campus models validated separately.",
   "inheritedStorage": "V13 editable and detailed portable storage models inherit V8. Runtime storage-mobile files remain byte-identical to V9 and load on demand. V13 portable storage exports preserve geometry and images; JSON serialization is refreshed.",
   "previousRuntime": [
@@ -92,9 +92,9 @@
   "geometrySource": "V8 campus plus evidence-backed V13 building/perimeter detail; some dimensions and display placements are illustrative reconstructions. Mobile foliage and procedural maps are simplified.",
   "downloadVersion": "20261001-v13",
   "decoder": "draco/",
-  "runtimeVersion": "20261005-v23",
+  "runtimeVersion": "20261006-v24",
   "modelAssetVersion": "20261001-v13",
-  "runtimePresentation": "V23: continuous north-up factory-centered geography zoom with labeled province/city/county stages, short readable real road handoff, finite front-facing architectural camera route, native MSAA source PBR and stable lighting shader topology.",
+  "runtimePresentation": "North-up 3s geographic travel with bounded native-framebuffer motion blur and genuine partial imagery; render-scale-aware reveal; clear street handoff; independent default automatic orbit and continuous architectural modulation.",
   "experienceV16": {
     "defaultView": "architectural-three-quarter",
     "sky": "procedural-day-moon-stars",
@@ -175,5 +175,73 @@
     "geometryAndDownloadFilesUnchanged": true,
     "newExternalAssets": 0,
     "physicalMobileAcceptance": "Not measured; Chrome desktop mobile emulation with trusted CDP touch is a separate layer."
+  },
+  "experienceV24": {
+    "sourceCommit": "d1971a4260454c6bbba93e18c57bd3a12a67052b",
+    "previousPublicCommit": "b95090cb54bdf8e2e27bb8cd1d5b9f0d8e7b8367",
+    "nominalGeographicMotionMs": 4310,
+    "timingMs": {
+      "imagery": 3000,
+      "streetApproach": 500,
+      "streetPaperReveal": 180,
+      "readableRoadHold": 350,
+      "modelFade": 280,
+      "imageryRenderableBlend": 180
+    },
+    "preparationAndRenderedGateWait": "separate from motion clock",
+    "geography": {
+      "bearing": 0,
+      "pitch": 0,
+      "centre": "actual configured campus WGS84 coordinates",
+      "labels": "stage location plus administrative path",
+      "sourceScope": "same reviewed historical NASA/OSM data; no new surveyed imagery"
+    },
+    "blur": {
+      "nativeResolution": true,
+      "samples": 9,
+      "combinedMaxCSSPixels": 8,
+      "oversampledRasterFilterMaxCSSPixels": 3,
+      "roadLabels": "drawn after blur, never filtered with satellite background"
+    },
+    "imageryGates": [
+      "loaded",
+      "native ImageSource minimum render scale",
+      "real frame before retiring full underlay",
+      "partial genuine footprint can enter early"
+    ],
+    "streetGates": [
+      "matching camera and session",
+      "fully covers viewport",
+      "actual road and factory-name frame",
+      "opaque readable hold"
+    ],
+    "camera": {
+      "automaticRotation": {
+        "default": true,
+        "defaultSpeed": 3
+      },
+      "cinematicModulation": {
+        "default": true,
+        "defaultSpeed": 3,
+        "mode": "continuous closed loop",
+        "cycleMs": 29400,
+        "changes": [
+          "push and pull",
+          "height",
+          "look target",
+          "small lateral movement"
+        ]
+      },
+      "independentToggles": true,
+      "manualTakeover": "pause both, explicit smooth resume",
+      "moreAndLighting": "preserve requested camera modes",
+      "reducedMotion": "initially paused to reflect system preference; explicit user enable overrides",
+      "finiteRouteStillAvailable": true
+    },
+    "designReferences": "Apple HIG Maps, Typography, Layout, Materials, Buttons, Motion and Accessibility; web adaptation, not native MapKit or native Liquid Glass",
+    "brandAssets": "original marks and existing official field/grain/snow-mountain brand imagery, no new marketing copy",
+    "newPublicMediaBytes": 0,
+    "geometryAndDownloads": "V13/V9 original bytes preserved",
+    "physicalMobileAcceptance": false
   }
 }
