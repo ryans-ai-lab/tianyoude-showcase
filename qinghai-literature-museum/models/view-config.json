@@ -2,7 +2,7 @@
   "title": "青海文学馆",
   "subtitle": "室内展陈 · 3D 空间查看",
   "coordinateSystem": "gltf-y-up",
-  "modelUrl": "models/museum.glb?v=20261006-v3r3-d1b5bf74",
+  "modelUrl": "models/museum.glb.gz?v=20261007-v4-d1b5bf74",
   "overview": {
     "position": [
       28.5,
@@ -435,7 +435,7 @@
   "floorY": 0,
   "playerHeight": 1.65,
   "walkSpeed": 1.8,
-  "version": "2026-10-06-v3",
+  "version": "2026-10-07-v4",
   "walkableHoles": [
     [
       [
@@ -510,7 +510,9 @@
       ]
     ]
   ],
-  "revision": 3,
-  "areaLightsUrl": "models/area-lights.json?v=d9227591",
-  "visitorRouteUrl": "models/visitor-route.json?v=05225e8c"
+  "revision": 4,
+  "visitorRouteUrl": "models/visitor-route.json?v=05225e8c",
+  "modelSHA256": "d1b5bf745eef9c46bef509e38ff22d989538f4962a6b864ebfcf0ca8d39cd58c",
+  "modelDecodedBytes": 14933872,
+  "showRegionsOnOverview": true
 }
