@@ -2,7 +2,7 @@
   "title": "青海文学馆",
   "subtitle": "室内展陈 · 3D 空间查看",
   "coordinateSystem": "gltf-y-up",
-  "modelUrl": "models/museum.glb.gz?v=20261007-v5-d1b5bf74",
+  "modelUrl": "models/museum.glb.gz?v=20261007-v6-d1b5bf74",
   "overview": {
     "position": [
       28.5,
@@ -54,11 +54,12 @@
           -5.15
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "01"
     },
     {
       "id": "ab",
-      "label": "A / B 展区",
+      "label": "A 萌芽 / B 拓荒",
       "description": "两侧主题画面、独立萌芽与拓荒吊板、灰木色板腿展桌。",
       "position": [
         14.5,
@@ -94,7 +95,8 @@
           -8.2
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "02"
     },
     {
       "id": "reception",
@@ -134,7 +136,8 @@
           -8.0
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "03"
     },
     {
       "id": "c",
@@ -174,7 +177,8 @@
           -6.25
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "04"
     },
     {
       "id": "d",
@@ -214,7 +218,8 @@
           -6.7
         ],
         "fov": 65
-      }
+      },
+      "navigationNumber": "05"
     },
     {
       "id": "e",
@@ -254,7 +259,8 @@
           4.2
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "06"
     },
     {
       "id": "cafe",
@@ -294,7 +300,8 @@
           5.7
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "07"
     },
     {
       "id": "cigar",
@@ -334,7 +341,8 @@
           9.0
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "08"
     },
     {
       "id": "services",
@@ -374,7 +382,8 @@
           4.8
         ],
         "fov": 60
-      }
+      },
+      "navigationNumber": "09"
     }
   ],
   "visibility": {
@@ -435,7 +444,7 @@
   "floorY": 0,
   "playerHeight": 1.65,
   "walkSpeed": 1.8,
-  "version": "2026-10-07-v5",
+  "version": "2026-10-07-v6",
   "walkableHoles": [
     [
       [
@@ -510,9 +519,9 @@
       ]
     ]
   ],
-  "revision": 5,
+  "revision": 6,
   "visitorRouteUrl": "models/visitor-route.json?v=05225e8c",
   "modelSHA256": "d1b5bf745eef9c46bef509e38ff22d989538f4962a6b864ebfcf0ca8d39cd58c",
   "modelDecodedBytes": 14933872,
-  "showRegionPlanOnOverview": true
+  "showRegionOverlay": true
 }
